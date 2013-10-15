@@ -1,0 +1,71 @@
+---- Minecraft Crash Report ----
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 15/10/13 18:49
+Description: Exception in server tick loop
+
+java.lang.VerifyError: (class: com/eloraam/redpower/base/BaseProxy, method: getClientGuiElement signature: (ILnet/minecraft/entity/ai/EntityAIHurtByTarget;Lnet/minecraft/item/Item;III)Ljava/lang/Object;) Incompatible argument to function
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:58)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:519)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:194)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:105)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:509)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Windows 8 (amd64) version 6.2
+	Java Version: 1.7.0_21, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1988303064 bytes (1896 MB) / 2058027008 bytes (1962 MB) up to 2058027008 bytes (1962 MB)
+	JVM Flags: 2 total; -Xmx2048M -Xms2048M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v8.11 FML v6.4.3.883 Minecraft Forge 9.11.0.883 13 mods loaded, 13 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{6.4.3.883} [Forge Mod Loader] (minecraft_server.1.6.4.jar) Unloaded->Constructed
+	Forge{9.11.0.883} [Minecraft Forge] (minecraft_server.1.6.4.jar) Unloaded->Constructed
+	RedPowerCore{2.0pr6} [RedPower] (RedPowerCore-2.0pr6.zip) Unloaded
+	RedPowerBase{2.0pr6} [RP Base] (RedPowerCore-2.0pr6.zip) Unloaded
+	RedPowerMachine{2.0pr6} [RP Machine] (RedPowerMechanical-2.0pr6.zip) Unloaded
+	RedPowerCompat{2.0pr6} [RP Compat] (RedPowerCompat-2.0pr6.zip) Unloaded
+	RedPowerWiring{2.0pr6} [RP Wiring] (RedPowerDigital-2.0pr6.zip) Unloaded
+	RedPowerLogic{2.0pr6} [RP Logic] (RedPowerDigital-2.0pr6.zip) Unloaded
+	RedPowerLighting{2.0pr6} [RP Lighting] (RedPowerDigital-2.0pr6.zip) Unloaded
+	RedPowerWorld{2.0pr6} [RP World] (RedPowerMechanical-2.0pr6.zip) Unloaded
+	RedPowerControl{2.0pr6} [RP Control] (RedPowerMechanical-2.0pr6.zip) Unloaded
+	Thaumcraft{4.0.1b} [Thaumcraft] (Thaumcraft4.0.1b.zip) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

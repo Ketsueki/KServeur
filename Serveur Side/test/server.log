@@ -1,0 +1,64 @@
+2013-10-15 18:45:24 [INFO] Starting minecraft server version 1.6.4
+2013-10-15 18:45:25 [INFO] Loading properties
+2013-10-15 18:45:25 [WARNING] server.properties does not exist
+2013-10-15 18:45:25 [INFO] Generating new properties file
+2013-10-15 18:45:25 [INFO] Default game type: SURVIVAL
+2013-10-15 18:45:25 [INFO] Generating keypair
+2013-10-15 18:45:26 [INFO] Starting Minecraft server on *:25565
+2013-10-15 18:45:26 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Le fichier spécifié est introuvable)
+2013-10-15 18:45:26 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Le fichier spécifié est introuvable)
+2013-10-15 18:45:26 [INFO] Preparing level "world"
+2013-10-15 18:45:26 [INFO] Preparing start region for level 0
+2013-10-15 18:45:27 [INFO] Preparing spawn area: 11%
+2013-10-15 18:45:28 [INFO] Preparing spawn area: 27%
+2013-10-15 18:45:29 [INFO] Preparing spawn area: 47%
+2013-10-15 18:45:30 [INFO] Preparing spawn area: 63%
+2013-10-15 18:45:31 [INFO] Preparing spawn area: 78%
+2013-10-15 18:45:32 [INFO] Preparing spawn area: 95%
+2013-10-15 18:45:33 [INFO] Done (6.811s)! For help, type "help" or "?"
+2013-10-15 18:46:57 [INFO] Stopping server
+2013-10-15 18:46:57 [INFO] Saving players
+2013-10-15 18:46:57 [INFO] Saving worlds
+2013-10-15 18:46:57 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-15 18:46:57 [INFO] Closing listening thread
+2013-10-15 18:46:57 [INFO] Saving chunks for level 'world'/Nether
+2013-10-15 18:46:57 [INFO] Saving chunks for level 'world'/The End
+2013-10-15 18:46:57 [INFO] Stopping server
+2013-10-15 18:49:21 [INFO] Starting minecraft server version 1.6.4
+2013-10-15 18:49:23 [SEVERE] Encountered an unexpected exception VerifyError
+java.lang.VerifyError: (class: com/eloraam/redpower/base/BaseProxy, method: getClientGuiElement signature: (ILnet/minecraft/entity/ai/EntityAIHurtByTarget;Lnet/minecraft/item/Item;III)Ljava/lang/Object;) Incompatible argument to function
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:58)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:519)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:194)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:105)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:509)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+2013-10-15 18:49:23 [SEVERE] This crash report has been saved to: G:\KServeur\Serveur Side\test\.\crash-reports\crash-2013-10-15_18.49.23-server.txt
+2013-10-15 18:54:57 [INFO] Stopping server
+2013-10-15 18:54:57 [INFO] Saving worlds
+2013-10-15 18:54:57 [INFO] Stopping server

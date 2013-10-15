@@ -86,6 +86,11 @@ world-settings:
     keep-spawn-loaded: true
     worldgen-ICBMContraption-OreGenerator: true
     worldgen-minechem-MinechemGeneration: true
+    worldgen-arsmagica2-AM2WorldDecorator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-AppliedEnergistics-AppEng: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-TConstruct-SlimeIslandGen: true
   world:
     keep-world-loaded: true
   nether:
@@ -98,6 +103,9 @@ world-settings:
     enabled: true
   normal:
     keep-world-loaded: true
+  scl:
+    keep-world-loaded: false
+    enabled: true
 spawn-limits:
   monsters: 70
   animals: 15
