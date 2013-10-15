@@ -1,0 +1,292 @@
+2013-10-15 14:22:37 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.30.933 for Minecraft 1.6.4 loading
+2013-10-15 14:22:37 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_21, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jre7
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Java classpath at launch is mcpc-plus-1.6.4-R0.1-forge933-B98.jar
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Java library path at launch is C:\Windows\system32;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;.
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Loaded coremod FMLCorePlugin
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Loaded coremod FMLForgePlugin
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Discovering coremods
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenCore 0.9.0.6.jar
+2013-10-15 14:22:37 [FINEST] [ForgeModLoader] Adding CodeChickenCore 0.9.0.6.jar to the list of known coremods, it will not be examined again
+2013-10-15 14:22:37 [FINE] [ForgeModLoader] Instantiating coremod class CodeChickenCorePlugin
+2013-10-15 14:22:37 [WARNING] [ForgeModLoader] The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Loaded coremod CodeChickenCorePlugin
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Examining for coremod candidacy NEIPlugins-1.1.0.2.jar
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Not found coremod data in NEIPlugins-1.1.0.2.jar
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Examining for coremod candidacy NotEnoughItems 1.6.1.5.jar
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Adding NotEnoughItems 1.6.1.5.jar to the list of known coremods, it will not be examined again
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Instantiating coremod class NEICorePlugin
+2013-10-15 14:22:48 [WARNING] [ForgeModLoader] The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Loaded coremod NEICorePlugin
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.lib.asm.ClassHeirachyManager
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.CodeChickenAccessTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.TweakTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.FeatureHackTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.DelegatedTransformer
+2013-10-15 14:22:48 [FINEST] [ForgeModLoader] Registering transformer codechicken.nei.asm.NEITransformer
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Running coremod plugins
+2013-10-15 14:22:48 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Running coremod plugin CodeChickenCorePlugin
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Coremod plugin CodeChickenCorePlugin run successfully
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Running coremod plugin NEICorePlugin
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Coremod plugin NEICorePlugin run successfully
+2013-10-15 14:22:49 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2013-10-15 14:22:49 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Validating minecraft
+2013-10-15 14:22:49 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2013-10-15 14:22:50 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+2013-10-15 14:22:52 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-10-15 14:22:52 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.933 Initialized
+2013-10-15 14:22:52 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-10-15 14:22:52 [INFO] [ForgeModLoader] Reading custom logging properties from G:\KServeur\Serveur Side\Final\config\logging.properties
+2013-10-15 14:22:52 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer, codechicken.core.asm.CodeChickenCoreModContainer, codechicken.nei.asm.NEIModContainer]
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Found a minecraft related file at G:\KServeur\Serveur Side\Final\mcpc-plus-1.6.4-R0.1-forge933-B98.jar, examining for mod candidates
+2013-10-15 14:22:52 [FINER] [ForgeModLoader] Skipping known library file G:\KServeur\Serveur Side\Final\mods\CodeChickenCore 0.9.0.6.jar
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Found a minecraft related file at G:\KServeur\Serveur Side\Final\.\mods\1.6.4\CodeChickenLib-universal-1.6.4-1.0.0.36.jar, examining for mod candidates
+2013-10-15 14:22:52 [FINER] [ForgeModLoader] Skipping known library file G:\KServeur\Serveur Side\Final\mods\NotEnoughItems 1.6.1.5.jar
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-10-15 14:22:52 [INFO] [ForgeModLoader] Searching G:\KServeur\Serveur Side\Final\mods for mods
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Found a candidate mod directory 1.6.4
+2013-10-15 14:22:52 [FINER] [ForgeModLoader] Skipping already parsed coremod or tweaker CodeChickenCore 0.9.0.6.jar
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Found a candidate zip or jar file NEIPlugins-1.1.0.2.jar
+2013-10-15 14:22:52 [FINER] [ForgeModLoader] Skipping already parsed coremod or tweaker NotEnoughItems 1.6.1.5.jar
+2013-10-15 14:22:52 [INFO] [ForgeModLoader] Also searching G:\KServeur\Serveur Side\Final\mods\1.6.4 for mods
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Found a candidate zip or jar file CodeChickenLib-universal-1.6.4-1.0.0.36.jar
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] Examining file mcpc-plus-1.6.4-R0.1-forge933-B98.jar for potential mods
+2013-10-15 14:22:52 [FINE] [ForgeModLoader] The mod container mcpc-plus-1.6.4-R0.1-forge933-B98.jar appears to be missing an mcmod.info file
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.4-1.0.0.36.jar for potential mods
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.4-1.0.0.36.jar appears to be missing an mcmod.info file
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Examining directory 1.6.4 for potential mods
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] No mcmod.info file found in directory 1.6.4
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Examining file NEIPlugins-1.1.0.2.jar for potential mods
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] Located mcmod.info file in file NEIPlugins-1.1.0.2.jar
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Identified an FMLMod type mod mods.neiplugins.NEIPlugins
+2013-10-15 14:22:54 [FINEST] [NEIPlugins] Parsed dependency info : [NotEnoughItems@[1.6.1.5,)] [NotEnoughItems@[1.6.1.5,)] []
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.4-1.0.0.36.jar for potential mods
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.4-1.0.0.36.jar appears to be missing an mcmod.info file
+2013-10-15 14:22:54 [INFO] [ForgeModLoader] Forge Mod Loader has identified 6 mods to load
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] Received a system property request ''
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Reloading logging properties from G:\KServeur\Serveur Side\Final\config\logging.properties
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-10-15 14:22:54 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-10-15 14:22:54 [INFO] [mcp] Activating mod mcp
+2013-10-15 14:22:54 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-10-15 14:22:54 [INFO] [FML] Activating mod FML
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/forge/lang/en_US.lang into language system
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/minecraft/lang/en_US.lang into language system
+2013-10-15 14:22:54 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-10-15 14:22:54 [INFO] [Forge] Activating mod Forge
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/forge/lang/en_US.lang into language system
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/minecraft/lang/en_US.lang into language system
+2013-10-15 14:22:54 [FINE] [CodeChickenCore] Mod Logging channel CodeChickenCore configured at default level.
+2013-10-15 14:22:54 [INFO] [CodeChickenCore] Activating mod CodeChickenCore
+2013-10-15 14:22:54 [FINE] [NotEnoughItems] Mod Logging channel NotEnoughItems configured at default level.
+2013-10-15 14:22:54 [INFO] [NotEnoughItems] Activating mod NotEnoughItems
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Injecting found translation data in zip file NotEnoughItems 1.6.1.5.jar at assets/nei/lang/en_US.lang into language system
+2013-10-15 14:22:54 [FINE] [NEIPlugins] Enabling mod NEIPlugins
+2013-10-15 14:22:54 [FINE] [NEIPlugins] Mod Logging channel NEIPlugins configured at default level.
+2013-10-15 14:22:54 [INFO] [NEIPlugins] Activating mod NEIPlugins
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-10-15 14:22:54 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Mod sorting data
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] 	NEIPlugins(NEI Plugins:1.1.0.2): NEIPlugins-1.1.0.2.jar (required-after:NotEnoughItems@[1.6.1.5,))
+2013-10-15 14:22:54 [INFO] [ForgeModLoader] FML has found a non-mod file CodeChickenLib-universal-1.6.4-1.0.0.36.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2013-10-15 14:22:54 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-10-15 14:22:54 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-10-15 14:22:54 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-10-15 14:22:54 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-10-15 14:22:54 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-10-15 14:22:54 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-10-15 14:22:54 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-10-15 14:22:54 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.933)
+2013-10-15 14:22:54 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-10-15 14:22:54 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-10-15 14:22:54 [FINEST] [CodeChickenCore] Sending event FMLConstructionEvent to mod CodeChickenCore
+2013-10-15 14:22:54 [FINEST] [CodeChickenCore] Sent event FMLConstructionEvent to mod CodeChickenCore
+2013-10-15 14:22:54 [FINEST] [NotEnoughItems] Sending event FMLConstructionEvent to mod NotEnoughItems
+2013-10-15 14:22:54 [FINEST] [NotEnoughItems] Sent event FMLConstructionEvent to mod NotEnoughItems
+2013-10-15 14:22:54 [FINEST] [NEIPlugins] Sending event FMLConstructionEvent to mod NEIPlugins
+2013-10-15 14:22:54 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into NEIPlugins
+2013-10-15 14:22:55 [FINEST] [NEIPlugins] Sent event FMLConstructionEvent to mod NEIPlugins
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] Mod signature data
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.4.30.933): mcpc-plus-1.6.4-R0.1-forge933-B98.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.11.1.933): mcpc-plus-1.6.4-R0.1-forge933-B98.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] 	CodeChickenCore(CodeChicken Core:0.9.0.6): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] 	NotEnoughItems(Not Enough Items:1.6.1.5): NotEnoughItems 1.6.1.5.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:22:55 [FINE] [ForgeModLoader] 	NEIPlugins(NEI Plugins:1.1.0.2): NEIPlugins-1.1.0.2.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:22:55 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-10-15 14:22:55 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-10-15 14:22:55 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-10-15 14:22:55 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-10-15 14:22:55 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-10-15 14:22:55 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-10-15 14:22:55 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-10-15 14:22:55 [FINEST] [CodeChickenCore] Sending event FMLPreInitializationEvent to mod CodeChickenCore
+2013-10-15 14:22:55 [FINEST] [CodeChickenCore] Sent event FMLPreInitializationEvent to mod CodeChickenCore
+2013-10-15 14:22:55 [FINEST] [NotEnoughItems] Sending event FMLPreInitializationEvent to mod NotEnoughItems
+2013-10-15 14:22:55 [FINEST] [NotEnoughItems] Sent event FMLPreInitializationEvent to mod NotEnoughItems
+2013-10-15 14:22:55 [FINEST] [NEIPlugins] Sending event FMLPreInitializationEvent to mod NEIPlugins
+2013-10-15 14:22:55 [FINEST] [NEIPlugins] Sent event FMLPreInitializationEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sending event FMLInitializationEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sent event FMLInitializationEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sending event FMLInitializationEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sent event FMLInitializationEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sending event FMLInitializationEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sent event FMLInitializationEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-10-15 14:22:56 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-10-15 14:22:56 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-10-15 14:22:56 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sending event IMCEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sent event IMCEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sending event IMCEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sent event IMCEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sending event IMCEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sent event IMCEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sending event FMLPostInitializationEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sent event FMLPostInitializationEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sending event FMLPostInitializationEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sent event FMLPostInitializationEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sending event FMLPostInitializationEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin BuildCraft (1.5.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Forestry (1.4.5)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin ForestryShowSecrets (1.0.1)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Forge (1.4.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Fuel Tooltip (1.0.2)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin IC2_exp (1.1.1)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin IC2 (1.1.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Lists (1.0.2)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Minecraft (1.0.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Railcraft (1.6.5)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin RailcraftFuels (1.1.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin Stat (1.0.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Found NEIPlugins plugin TConstruct (1.1.0)
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin RailcraftFuels (1.1.0) not active
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin Railcraft (1.6.5) not active
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin IC2_exp (1.1.1) not active
+2013-10-15 14:22:56 [INFO] [ForgeModLoader] [Modstats] Config loaded. allowUpdates: true,  betaNotification: false, strict: false
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin BuildCraft (1.5.0) not active
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin ForestryShowSecrets (1.0.1) not active
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin IC2 (1.1.0) not active
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin TConstruct (1.1.0) not active
+2013-10-15 14:22:56 [FINE] [NEIPlugins] Plugin Forestry (1.4.5) not active
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sent event FMLPostInitializationEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sending event FMLLoadCompleteEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sent event FMLLoadCompleteEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sending event FMLLoadCompleteEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sent event FMLLoadCompleteEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sending event FMLLoadCompleteEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sent event FMLLoadCompleteEvent to mod NEIPlugins
+2013-10-15 14:22:56 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 6 mods
+2013-10-15 14:22:56 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-10-15 14:22:56 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-10-15 14:22:56 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sending event FMLServerAboutToStartEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [CodeChickenCore] Sent event FMLServerAboutToStartEvent to mod CodeChickenCore
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sending event FMLServerAboutToStartEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NotEnoughItems] Sent event FMLServerAboutToStartEvent to mod NotEnoughItems
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sending event FMLServerAboutToStartEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINEST] [NEIPlugins] Sent event FMLServerAboutToStartEvent to mod NEIPlugins
+2013-10-15 14:22:56 [FINE] [fml.ItemTracker] The difference set is equal
+2013-10-15 14:22:57 [FINE] [fml.ItemTracker] The difference set is equal
+2013-10-15 14:22:57 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5af8aee9)
+2013-10-15 14:22:57 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@5af8aee9)
+2013-10-15 14:22:57 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@5af8aee9)
+2013-10-15 14:22:58 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-10-15 14:22:58 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-10-15 14:22:58 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-10-15 14:22:58 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-10-15 14:22:58 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-10-15 14:22:58 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-10-15 14:22:58 [FINEST] [CodeChickenCore] Sending event FMLServerStartingEvent to mod CodeChickenCore
+2013-10-15 14:22:58 [FINEST] [CodeChickenCore] Sent event FMLServerStartingEvent to mod CodeChickenCore
+2013-10-15 14:22:58 [FINEST] [NotEnoughItems] Sending event FMLServerStartingEvent to mod NotEnoughItems
+2013-10-15 14:22:58 [FINEST] [NotEnoughItems] Sent event FMLServerStartingEvent to mod NotEnoughItems
+2013-10-15 14:22:58 [FINEST] [NEIPlugins] Sending event FMLServerStartingEvent to mod NEIPlugins
+2013-10-15 14:22:58 [FINEST] [NEIPlugins] Sent event FMLServerStartingEvent to mod NEIPlugins
+2013-10-15 14:22:58 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-10-15 14:22:58 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-10-15 14:22:58 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-10-15 14:22:58 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-10-15 14:22:58 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-10-15 14:22:58 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-10-15 14:22:58 [FINEST] [CodeChickenCore] Sending event FMLServerStartedEvent to mod CodeChickenCore
+2013-10-15 14:22:58 [FINEST] [CodeChickenCore] Sent event FMLServerStartedEvent to mod CodeChickenCore
+2013-10-15 14:22:58 [FINEST] [NotEnoughItems] Sending event FMLServerStartedEvent to mod NotEnoughItems
+2013-10-15 14:22:58 [FINEST] [NotEnoughItems] Sent event FMLServerStartedEvent to mod NotEnoughItems
+2013-10-15 14:22:58 [FINEST] [NEIPlugins] Sending event FMLServerStartedEvent to mod NEIPlugins
+2013-10-15 14:22:58 [FINEST] [NEIPlugins] Sent event FMLServerStartedEvent to mod NEIPlugins
+2013-10-15 14:22:58 [FINE] [NEIPlugins] FirstTickHandler - server side finish
+2013-10-15 14:23:08 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2013-10-15 14:23:08 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2013-10-15 14:23:08 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
+2013-10-15 14:23:08 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
+2013-10-15 14:23:08 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2013-10-15 14:23:08 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2013-10-15 14:23:08 [FINEST] [CodeChickenCore] Sending event FMLServerStoppingEvent to mod CodeChickenCore
+2013-10-15 14:23:08 [FINEST] [CodeChickenCore] Sent event FMLServerStoppingEvent to mod CodeChickenCore
+2013-10-15 14:23:08 [FINEST] [NotEnoughItems] Sending event FMLServerStoppingEvent to mod NotEnoughItems
+2013-10-15 14:23:08 [FINEST] [NotEnoughItems] Sent event FMLServerStoppingEvent to mod NotEnoughItems
+2013-10-15 14:23:08 [FINEST] [NEIPlugins] Sending event FMLServerStoppingEvent to mod NEIPlugins
+2013-10-15 14:23:08 [FINEST] [NEIPlugins] Sent event FMLServerStoppingEvent to mod NEIPlugins
+2013-10-15 14:23:09 [INFO] [ForgeModLoader] Unloading dimension 0
+2013-10-15 14:23:09 [INFO] [ForgeModLoader] Unloading dimension -1
+2013-10-15 14:23:09 [FINEST] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2013-10-15 14:23:09 [FINEST] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2013-10-15 14:23:09 [FINEST] [FML] Sending event FMLServerStoppedEvent to mod FML
+2013-10-15 14:23:09 [FINEST] [FML] Sent event FMLServerStoppedEvent to mod FML
+2013-10-15 14:23:09 [FINEST] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2013-10-15 14:23:09 [FINEST] [Forge] Sent event FMLServerStoppedEvent to mod Forge
+2013-10-15 14:23:09 [FINEST] [CodeChickenCore] Sending event FMLServerStoppedEvent to mod CodeChickenCore
+2013-10-15 14:23:09 [FINEST] [CodeChickenCore] Sent event FMLServerStoppedEvent to mod CodeChickenCore
+2013-10-15 14:23:09 [FINEST] [NotEnoughItems] Sending event FMLServerStoppedEvent to mod NotEnoughItems
+2013-10-15 14:23:09 [FINEST] [NotEnoughItems] Sent event FMLServerStoppedEvent to mod NotEnoughItems
+2013-10-15 14:23:09 [FINEST] [NEIPlugins] Sending event FMLServerStoppedEvent to mod NEIPlugins
+2013-10-15 14:23:09 [FINEST] [NEIPlugins] Sent event FMLServerStoppedEvent to mod NEIPlugins

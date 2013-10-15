@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "KetsuekiN": {
+      "name": "KetsuekiN",
+      "playerUUID": "f9c99b1ac9324ccfb848a634631de181"
+    },
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.6.4-Forge9.11.0.883",
+      "playerUUID": "f9c99b1ac9324ccfb848a634631de181"
+    }
+  },
+  "selectedProfile": "Forge",
+  "clientToken": "61df0bf3-8dd1-4088-9c6b-aa5e48213626",
+  "authenticationDatabase": {
+    "f9c99b1ac9324ccfb848a634631de181": {
+      "username": "ketsuekin",
+      "accessToken": "e0658186bfac4b1381218e317a69f8cb",
+      "uuid": "f9c99b1ac9324ccfb848a634631de181",
+      "displayName": "KetsuekiN"
+    }
+  }
+}

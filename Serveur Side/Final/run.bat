@@ -1,0 +1,1 @@
+java -Xmx2048M -Xms2048M -jar mcpc-plus-1.6.4-R0.1-forge933-B98.jar

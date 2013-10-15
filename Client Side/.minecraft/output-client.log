@@ -1,0 +1,66 @@
+2013-10-15 14:22:48 [CLIENT] [INFO] Setting user: KetsuekiN
+2013-10-15 14:22:48 [CLIENT] [INFO] (Session ID is token:7d483c3aee704671a6ae6708a24160bc:f9c99b1ac9324ccfb848a634631de181)
+2013-10-15 14:22:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-10-15 14:22:49 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-10-15 14:23:13 [CLIENT] [INFO] Stopping!
+2013-10-15 14:55:13 [CLIENT] [INFO] Setting user: KetsuekiN
+2013-10-15 14:55:13 [CLIENT] [INFO] (Session ID is token:a6eca9782648429f829eb09df24a99d3:f9c99b1ac9324ccfb848a634631de181)
+2013-10-15 14:55:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-10-15 14:55:15 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-10-15 14:55:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+2013-10-15 14:55:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+2013-10-15 14:55:42 [CLIENT] [INFO] Stopping!
+2013-10-15 14:56:08 [CLIENT] [INFO] Setting user: KetsuekiN
+2013-10-15 14:56:08 [CLIENT] [INFO] (Session ID is token:e0658186bfac4b1381218e317a69f8cb:f9c99b1ac9324ccfb848a634631de181)
+2013-10-15 14:56:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-10-15 14:56:10 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-10-15 14:56:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Transport, FMLFileResourcePack:ICBM|Contraption, FMLFileResourcePack:ICBM|Explosion, FMLFileResourcePack:ICBM|Sentry, FMLFileResourcePack:Modular Force Field System, FMLFileResourcePack:MineChem, FMLFileResourcePack:NEI Plugins, FMLFileResourcePack:Railcraft
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4015_minechem.blockBlueprintProjector.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/blocks/proximityDetector.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4014_minechem.blockSynthesis.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4016_block.minechemGhostBlock.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/blocks/turretPlatform.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4019_Blueprint Printer (WIP).png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minechem:textures/blocks/microscope.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/missile.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/rocketLauncher.png
+2013-10-15 14:56:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4996_name.fusionStar.png
+2013-10-15 14:56:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Transport, FMLFileResourcePack:ICBM, FMLFileResourcePack:ICBM, FMLFileResourcePack:ICBM, FMLFileResourcePack:Modular Force Field System, FMLFileResourcePack:MineChem, FMLFileResourcePack:NEI Plugins, FMLFileResourcePack:Railcraft
+2013-10-15 14:56:20 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_fragmentation.png
+2013-10-15 14:56:20 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_sonic.png
+2013-10-15 14:56:20 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/missile.png
+2013-10-15 14:56:20 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_missileModule.png
+2013-10-15 14:56:20 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_contagious.png
+2013-10-15 14:56:20 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_antiBallistic.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_antimatter.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_exothermic.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/rocketLauncher.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_homing.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_rejuvenation.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_thermobaric.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_breaching.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_emp.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_hypersonic.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4996_name.fusionStar.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_endothermic.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_redMatter.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_nuclear.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_sMine.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_cluster.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_nuclearCluster.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_ender.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/items/grenade_antiGravitational.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4015_minechem.blockBlueprintProjector.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/blocks/proximityDetector.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4014_minechem.blockSynthesis.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4016_block.minechemGhostBlock.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: icbm:textures/blocks/turretPlatform.png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_4019_Blueprint Printer (WIP).png
+2013-10-15 14:56:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minechem:textures/blocks/microscope.png
+2013-10-15 14:57:42 [CLIENT] [INFO] Connecting to 127.0.0.1, 25565
+2013-10-15 14:57:45 [CLIENT] [INFO] [CHAT] KetsuekiN joined the game.
+2013-10-15 14:58:39 [CLIENT] [INFO] [CHAT] [CONSOLE: Opped ketsuekin]
+2013-10-15 14:59:59 [CLIENT] [INFO] [CHAT] You are now playing creative
+2013-10-15 15:00:06 [CLIENT] [INFO] [CHAT] [Server] ninja
+2013-10-15 15:00:43 [CLIENT] [SEVERE] Reached end of stream for /127.0.0.1
+2013-10-15 15:00:48 [CLIENT] [INFO] Stopping!

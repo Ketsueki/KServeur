@@ -1,0 +1,1077 @@
+2013-10-15 14:53:25 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.30.933 for Minecraft 1.6.4 loading
+2013-10-15 14:53:25 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_21, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jre7
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Java classpath at launch is mcpc-plus-1.6.4-R0.1-forge933-B98.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Java library path at launch is C:\Windows\system32;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;.
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Loaded coremod FMLCorePlugin
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Loaded coremod FMLForgePlugin
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Discovering coremods
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenLib-universal-1.6.4-1.0.0.36.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy buildcraft-A-1.6.2-4.1.0.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in buildcraft-A-1.6.2-4.1.0.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy CodeChickenCore 0.9.0.6.jar
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Adding CodeChickenCore 0.9.0.6.jar to the list of known coremods, it will not be examined again
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Instantiating coremod class CodeChickenCorePlugin
+2013-10-15 14:53:25 [WARNING] [ForgeModLoader] The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Loaded coremod CodeChickenCorePlugin
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy ICBM_Contraption_v1.3.3.254.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in ICBM_Contraption_v1.3.3.254.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy ICBM_Explosion_v1.3.3.254.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in ICBM_Explosion_v1.3.3.254.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy ICBM_Sentry_v1.3.3.254.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in ICBM_Sentry_v1.3.3.254.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy MFFS_v3.4.0.231.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in MFFS_v3.4.0.231.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy Minechem4-413.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in Minechem4-413.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy minecraftforge-installer-1.6.4-9.11.0.883.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in minecraftforge-installer-1.6.4-9.11.0.883.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy NEIPlugins-1.1.0.2.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in NEIPlugins-1.1.0.2.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy NotEnoughItems 1.6.1.5.jar
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Adding NotEnoughItems 1.6.1.5.jar to the list of known coremods, it will not be examined again
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Instantiating coremod class NEICorePlugin
+2013-10-15 14:53:25 [WARNING] [ForgeModLoader] The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Loaded coremod NEICorePlugin
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Examining for coremod candidacy Railcraft_1.6.2-8.1.0.0.jar
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Not found coremod data in Railcraft_1.6.2-8.1.0.0.jar
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.lib.asm.ClassHeirachyManager
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.CodeChickenAccessTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.InterfaceDependancyTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.TweakTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.FeatureHackTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.core.asm.DelegatedTransformer
+2013-10-15 14:53:25 [FINEST] [ForgeModLoader] Registering transformer codechicken.nei.asm.NEITransformer
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Running coremod plugins
+2013-10-15 14:53:25 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Running coremod plugin CodeChickenCorePlugin
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Coremod plugin CodeChickenCorePlugin run successfully
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Running coremod plugin NEICorePlugin
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Coremod plugin NEICorePlugin run successfully
+2013-10-15 14:53:26 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2013-10-15 14:53:26 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Validating minecraft
+2013-10-15 14:53:26 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2013-10-15 14:53:27 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+2013-10-15 14:53:28 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-10-15 14:53:28 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.933 Initialized
+2013-10-15 14:53:29 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-10-15 14:53:29 [INFO] [ForgeModLoader] Reading custom logging properties from G:\KServeur\Serveur Side\Final\config\logging.properties
+2013-10-15 14:53:29 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer, codechicken.core.asm.CodeChickenCoreModContainer, codechicken.nei.asm.NEIModContainer]
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a minecraft related file at G:\KServeur\Serveur Side\Final\mcpc-plus-1.6.4-R0.1-forge933-B98.jar, examining for mod candidates
+2013-10-15 14:53:29 [FINER] [ForgeModLoader] Skipping known library file G:\KServeur\Serveur Side\Final\mods\CodeChickenCore 0.9.0.6.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a minecraft related file at G:\KServeur\Serveur Side\Final\.\mods\1.6.4\CodeChickenLib-universal-1.6.4-1.0.0.36.jar, examining for mod candidates
+2013-10-15 14:53:29 [FINER] [ForgeModLoader] Skipping known library file G:\KServeur\Serveur Side\Final\mods\NotEnoughItems 1.6.1.5.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-10-15 14:53:29 [INFO] [ForgeModLoader] Searching G:\KServeur\Serveur Side\Final\mods for mods
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate mod directory 1.6.4
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file buildcraft-A-1.6.2-4.1.0.jar
+2013-10-15 14:53:29 [FINER] [ForgeModLoader] Skipping already parsed coremod or tweaker CodeChickenCore 0.9.0.6.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file ICBM_API_v1.3.3.254.zip
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file ICBM_Contraption_v1.3.3.254.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file ICBM_Explosion_v1.3.3.254.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file ICBM_Sentry_v1.3.3.254.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file MFFS_API_v3.4.0.231.zip
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file MFFS_v3.4.0.231.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file Minechem4-413.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file minecraftforge-installer-1.6.4-9.11.0.883.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file NEIPlugins-1.1.0.2.jar
+2013-10-15 14:53:29 [FINER] [ForgeModLoader] Skipping already parsed coremod or tweaker NotEnoughItems 1.6.1.5.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file Railcraft_1.6.2-8.1.0.0.jar
+2013-10-15 14:53:29 [INFO] [ForgeModLoader] Also searching G:\KServeur\Serveur Side\Final\mods\1.6.4 for mods
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Found a candidate zip or jar file CodeChickenLib-universal-1.6.4-1.0.0.36.jar
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] Examining file mcpc-plus-1.6.4-R0.1-forge933-B98.jar for potential mods
+2013-10-15 14:53:29 [FINE] [ForgeModLoader] The mod container mcpc-plus-1.6.4-R0.1-forge933-B98.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.4-1.0.0.36.jar for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.4-1.0.0.36.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining directory 1.6.4 for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] No mcmod.info file found in directory 1.6.4
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file buildcraft-A-1.6.2-4.1.0.jar for potential mods
+2013-10-15 14:53:30 [FINER] [ForgeModLoader] Located mcmod.info file in file buildcraft-A-1.6.2-4.1.0.jar
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftBuilders
+2013-10-15 14:53:30 [FINEST] [BuildCraft|Builders] Parsed dependency info : [BuildCraft|Core@4.1.0] [BuildCraft|Core@4.1.0] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftCore
+2013-10-15 14:53:30 [FINEST] [BuildCraft|Core] Parsed dependency info : [Forge@[9.10.0.800,)] [Forge@[9.10.0.800,)] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftEnergy
+2013-10-15 14:53:30 [FINEST] [BuildCraft|Energy] Parsed dependency info : [BuildCraft|Core@4.1.0] [BuildCraft|Core@4.1.0] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftFactory
+2013-10-15 14:53:30 [FINEST] [BuildCraft|Factory] Parsed dependency info : [BuildCraft|Core@4.1.0] [BuildCraft|Core@4.1.0] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftSilicon
+2013-10-15 14:53:30 [FINEST] [BuildCraft|Silicon] Parsed dependency info : [BuildCraft|Transport@4.1.0] [BuildCraft|Transport@4.1.0] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod buildcraft.BuildCraftTransport
+2013-10-15 14:53:30 [FINEST] [BuildCraft|Transport] Parsed dependency info : [BuildCraft|Core@4.1.0] [BuildCraft|Core@4.1.0] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file ICBM_API_v1.3.3.254.zip for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container ICBM_API_v1.3.3.254.zip appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file ICBM_Contraption_v1.3.3.254.jar for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container ICBM_Contraption_v1.3.3.254.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod icbm.contraption.ICBMContraption
+2013-10-15 14:53:30 [FINEST] [ICBM|Contraption] Parsed dependency info : [] [AtomicScience] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file ICBM_Explosion_v1.3.3.254.jar for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container ICBM_Explosion_v1.3.3.254.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod icbm.explosion.ICBMExplosion
+2013-10-15 14:53:30 [FINEST] [ICBM|Explosion] Parsed dependency info : [] [ICBM|Sentry, AtomicScience] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file ICBM_Sentry_v1.3.3.254.jar for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container ICBM_Sentry_v1.3.3.254.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod icbm.sentry.ICBMSentry
+2013-10-15 14:53:30 [FINEST] [ICBM|Sentry] Parsed dependency info : [] [] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file MFFS_API_v3.4.0.231.zip for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container MFFS_API_v3.4.0.231.zip appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file MFFS_v3.4.0.231.jar for potential mods
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] The mod container MFFS_v3.4.0.231.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Identified an FMLMod type mod mffs.ModularForceFieldSystem
+2013-10-15 14:53:30 [FINEST] [MFFS] Parsed dependency info : [] [] []
+2013-10-15 14:53:30 [FINE] [ForgeModLoader] Examining file Minechem4-413.jar for potential mods
+2013-10-15 14:53:30 [FINER] [ForgeModLoader] Located mcmod.info file in file Minechem4-413.jar
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Identified an FMLMod type mod ljdp.minechem.common.ModMinechem
+2013-10-15 14:53:31 [FINEST] [minechem] Parsed dependency info : [] [] []
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Examining file minecraftforge-installer-1.6.4-9.11.0.883.jar for potential mods
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] The mod container minecraftforge-installer-1.6.4-9.11.0.883.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Examining file NEIPlugins-1.1.0.2.jar for potential mods
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] Located mcmod.info file in file NEIPlugins-1.1.0.2.jar
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Identified an FMLMod type mod mods.neiplugins.NEIPlugins
+2013-10-15 14:53:31 [FINEST] [NEIPlugins] Parsed dependency info : [NotEnoughItems@[1.6.1.5,)] [NotEnoughItems@[1.6.1.5,)] []
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Examining file Railcraft_1.6.2-8.1.0.0.jar for potential mods
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] Located mcmod.info file in file Railcraft_1.6.2-8.1.0.0.jar
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Identified an FMLMod type mod mods.railcraft.common.core.Railcraft
+2013-10-15 14:53:31 [FINEST] [Railcraft] Parsed dependency info : [Forge@[9.10.1.867,)] [Forge@[9.10.1.867,), BuildCraft|Core[4.0.1,), BuildCraft|Energy, BuildCraft|Builders, BuildCraft|Factory, Forestry, IC2@[2.0.140,)] []
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Examining file CodeChickenLib-universal-1.6.4-1.0.0.36.jar for potential mods
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] The mod container CodeChickenLib-universal-1.6.4-1.0.0.36.jar appears to be missing an mcmod.info file
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] Forge Mod Loader has identified 18 mods to load
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] Received a system property request ''
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Reloading logging properties from G:\KServeur\Serveur Side\Final\config\logging.properties
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-10-15 14:53:31 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-10-15 14:53:31 [INFO] [mcp] Activating mod mcp
+2013-10-15 14:53:31 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-10-15 14:53:31 [INFO] [FML] Activating mod FML
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/forge/lang/en_US.lang into language system
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/minecraft/lang/en_US.lang into language system
+2013-10-15 14:53:31 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-10-15 14:53:31 [INFO] [Forge] Activating mod Forge
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/forge/lang/en_US.lang into language system
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Injecting found translation data in zip file mcpc-plus-1.6.4-R0.1-forge933-B98.jar at assets/minecraft/lang/en_US.lang into language system
+2013-10-15 14:53:31 [FINE] [CodeChickenCore] Mod Logging channel CodeChickenCore configured at default level.
+2013-10-15 14:53:31 [INFO] [CodeChickenCore] Activating mod CodeChickenCore
+2013-10-15 14:53:31 [FINE] [NotEnoughItems] Mod Logging channel NotEnoughItems configured at default level.
+2013-10-15 14:53:31 [INFO] [NotEnoughItems] Activating mod NotEnoughItems
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Injecting found translation data in zip file NotEnoughItems 1.6.1.5.jar at assets/nei/lang/en_US.lang into language system
+2013-10-15 14:53:31 [FINE] [BuildCraft|Builders] Enabling mod BuildCraft|Builders
+2013-10-15 14:53:31 [FINE] [BuildCraft|Builders] Mod Logging channel BuildCraft|Builders configured at default level.
+2013-10-15 14:53:31 [INFO] [BuildCraft|Builders] Activating mod BuildCraft|Builders
+2013-10-15 14:53:31 [FINE] [BuildCraft|Core] Enabling mod BuildCraft|Core
+2013-10-15 14:53:31 [FINE] [BuildCraft|Core] Mod Logging channel BuildCraft|Core configured at default level.
+2013-10-15 14:53:31 [INFO] [BuildCraft|Core] Activating mod BuildCraft|Core
+2013-10-15 14:53:31 [FINE] [BuildCraft|Energy] Enabling mod BuildCraft|Energy
+2013-10-15 14:53:31 [FINE] [BuildCraft|Energy] Mod Logging channel BuildCraft|Energy configured at default level.
+2013-10-15 14:53:31 [INFO] [BuildCraft|Energy] Activating mod BuildCraft|Energy
+2013-10-15 14:53:31 [FINE] [BuildCraft|Factory] Enabling mod BuildCraft|Factory
+2013-10-15 14:53:31 [FINE] [BuildCraft|Factory] Mod Logging channel BuildCraft|Factory configured at default level.
+2013-10-15 14:53:31 [INFO] [BuildCraft|Factory] Activating mod BuildCraft|Factory
+2013-10-15 14:53:31 [FINE] [BuildCraft|Silicon] Enabling mod BuildCraft|Silicon
+2013-10-15 14:53:31 [FINE] [BuildCraft|Silicon] Mod Logging channel BuildCraft|Silicon configured at default level.
+2013-10-15 14:53:31 [INFO] [BuildCraft|Silicon] Activating mod BuildCraft|Silicon
+2013-10-15 14:53:31 [FINE] [BuildCraft|Transport] Enabling mod BuildCraft|Transport
+2013-10-15 14:53:31 [FINE] [BuildCraft|Transport] Mod Logging channel BuildCraft|Transport configured at default level.
+2013-10-15 14:53:31 [INFO] [BuildCraft|Transport] Activating mod BuildCraft|Transport
+2013-10-15 14:53:31 [FINE] [ICBM|Contraption] Enabling mod ICBM|Contraption
+2013-10-15 14:53:31 [FINE] [ICBM|Contraption] Mod Logging channel ICBM|Contraption configured at default level.
+2013-10-15 14:53:31 [INFO] [ICBM|Contraption] Activating mod ICBM|Contraption
+2013-10-15 14:53:31 [FINE] [ICBM|Explosion] Enabling mod ICBM|Explosion
+2013-10-15 14:53:31 [FINE] [ICBM|Explosion] Mod Logging channel ICBM|Explosion configured at default level.
+2013-10-15 14:53:31 [INFO] [ICBM|Explosion] Activating mod ICBM|Explosion
+2013-10-15 14:53:31 [FINE] [ICBM|Sentry] Enabling mod ICBM|Sentry
+2013-10-15 14:53:31 [FINE] [ICBM|Sentry] Mod Logging channel ICBM|Sentry configured at default level.
+2013-10-15 14:53:31 [INFO] [ICBM|Sentry] Activating mod ICBM|Sentry
+2013-10-15 14:53:31 [FINE] [MFFS] Enabling mod MFFS
+2013-10-15 14:53:31 [FINE] [MFFS] Mod Logging channel MFFS configured at default level.
+2013-10-15 14:53:31 [INFO] [MFFS] Activating mod MFFS
+2013-10-15 14:53:31 [FINE] [minechem] Enabling mod minechem
+2013-10-15 14:53:31 [FINE] [minechem] Mod Logging channel minechem configured at default level.
+2013-10-15 14:53:31 [INFO] [minechem] Activating mod minechem
+2013-10-15 14:53:31 [FINE] [NEIPlugins] Enabling mod NEIPlugins
+2013-10-15 14:53:31 [FINE] [NEIPlugins] Mod Logging channel NEIPlugins configured at default level.
+2013-10-15 14:53:31 [INFO] [NEIPlugins] Activating mod NEIPlugins
+2013-10-15 14:53:31 [FINE] [Railcraft] Enabling mod Railcraft
+2013-10-15 14:53:31 [FINE] [Railcraft] Mod Logging channel Railcraft configured at default level.
+2013-10-15 14:53:31 [INFO] [Railcraft] Activating mod Railcraft
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Injecting found translation data in zip file Railcraft_1.6.2-8.1.0.0.jar at assets/railcraft/lang/en_US.lang into language system
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-10-15 14:53:31 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Mod sorting data
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	BuildCraft|Core(BuildCraft:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (required-after:Forge@[9.10.0.800,))
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	BuildCraft|Builders(BC Builders:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (required-after:BuildCraft|Core@4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	BuildCraft|Energy(BC Energy:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (required-after:BuildCraft|Core@4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	BuildCraft|Factory(BC Factory:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (required-after:BuildCraft|Core@4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	BuildCraft|Transport(BC Transport:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (required-after:BuildCraft|Core@4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	BuildCraft|Silicon(BC Silicon:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (required-after:BuildCraft|Transport@4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	ICBM|Contraption(ICBM|Contraption:1.3.3): ICBM_Contraption_v1.3.3.254.jar (after:AtomicScience)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	ICBM|Sentry(ICBM|Sentry:1.3.3): ICBM_Sentry_v1.3.3.254.jar ()
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	ICBM|Explosion(ICBM|Explosion:1.3.3): ICBM_Explosion_v1.3.3.254.jar (after:ICBM|Sentry;after:AtomicScience)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	MFFS(Modular Force Field System:3.4.0): MFFS_v3.4.0.231.jar ()
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	minechem(MineChem:@VERSION@): Minechem4-413.jar ()
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	NEIPlugins(NEI Plugins:1.1.0.2): NEIPlugins-1.1.0.2.jar (required-after:NotEnoughItems@[1.6.1.5,))
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] 	Railcraft(Railcraft:8.1.0.0): Railcraft_1.6.2-8.1.0.0.jar (required-after:Forge@[9.10.1.867,);after:BuildCraft|Core[4.0.1,);after:BuildCraft|Energy;after:BuildCraft|Builders;after:BuildCraft|Factory;after:Forestry;after:IC2@[2.0.140,))
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] FML has found a non-mod file ICBM_API_v1.3.3.254.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] FML has found a non-mod file MFFS_API_v3.4.0.231.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] FML has found a non-mod file minecraftforge-installer-1.6.4-9.11.0.883.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] FML has found a non-mod file CodeChickenLib-universal-1.6.4-1.0.0.36.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+2013-10-15 14:53:31 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-10-15 14:53:31 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-10-15 14:53:31 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-10-15 14:53:31 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-10-15 14:53:31 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.933)
+2013-10-15 14:53:31 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-10-15 14:53:31 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-10-15 14:53:31 [FINEST] [CodeChickenCore] Sending event FMLConstructionEvent to mod CodeChickenCore
+2013-10-15 14:53:31 [FINEST] [CodeChickenCore] Sent event FMLConstructionEvent to mod CodeChickenCore
+2013-10-15 14:53:31 [FINEST] [NotEnoughItems] Sending event FMLConstructionEvent to mod NotEnoughItems
+2013-10-15 14:53:31 [FINEST] [NotEnoughItems] Sent event FMLConstructionEvent to mod NotEnoughItems
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Core] Sending event FMLConstructionEvent to mod BuildCraft|Core
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Core to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod BuildCraft|Core accepts its own version (4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Core
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Core] Sent event FMLConstructionEvent to mod BuildCraft|Core
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Builders] Sending event FMLConstructionEvent to mod BuildCraft|Builders
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Builders to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod BuildCraft|Builders accepts its own version (4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Builders
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Builders] Sent event FMLConstructionEvent to mod BuildCraft|Builders
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Energy] Sending event FMLConstructionEvent to mod BuildCraft|Energy
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Energy to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod BuildCraft|Energy accepts its own version (4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Energy
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Energy] Sent event FMLConstructionEvent to mod BuildCraft|Energy
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Factory] Sending event FMLConstructionEvent to mod BuildCraft|Factory
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Factory to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod BuildCraft|Factory accepts its own version (4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Factory
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Factory] Sent event FMLConstructionEvent to mod BuildCraft|Factory
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Transport] Sending event FMLConstructionEvent to mod BuildCraft|Transport
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Transport to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod BuildCraft|Transport accepts its own version (4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Transport
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Transport] Sent event FMLConstructionEvent to mod BuildCraft|Transport
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Silicon] Sending event FMLConstructionEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] Testing mod BuildCraft|Silicon to verify it accepts its own version in a remote connection
+2013-10-15 14:53:31 [FINEST] [ForgeModLoader] The mod BuildCraft|Silicon accepts its own version (4.1.0)
+2013-10-15 14:53:31 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BuildCraft|Silicon
+2013-10-15 14:53:31 [FINEST] [BuildCraft|Silicon] Sent event FMLConstructionEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:31 [FINEST] [ICBM|Contraption] Sending event FMLConstructionEvent to mod ICBM|Contraption
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] Testing mod ICBM|Contraption to verify it accepts its own version in a remote connection
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] The mod ICBM|Contraption accepts its own version (1.3.3)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ICBM|Contraption
+2013-10-15 14:53:32 [FINEST] [ICBM|Contraption] Sent event FMLConstructionEvent to mod ICBM|Contraption
+2013-10-15 14:53:32 [FINEST] [ICBM|Sentry] Sending event FMLConstructionEvent to mod ICBM|Sentry
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] Testing mod ICBM|Sentry to verify it accepts its own version in a remote connection
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] The mod ICBM|Sentry accepts its own version (1.3.3)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ICBM|Sentry
+2013-10-15 14:53:32 [FINEST] [ICBM|Sentry] Sent event FMLConstructionEvent to mod ICBM|Sentry
+2013-10-15 14:53:32 [FINEST] [ICBM|Explosion] Sending event FMLConstructionEvent to mod ICBM|Explosion
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] Testing mod ICBM|Explosion to verify it accepts its own version in a remote connection
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] The mod ICBM|Explosion accepts its own version (1.3.3)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into ICBM|Explosion
+2013-10-15 14:53:32 [FINEST] [ICBM|Explosion] Sent event FMLConstructionEvent to mod ICBM|Explosion
+2013-10-15 14:53:32 [FINEST] [MFFS] Sending event FMLConstructionEvent to mod MFFS
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] Testing mod MFFS to verify it accepts its own version in a remote connection
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] The mod MFFS accepts its own version (3.4.0)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into MFFS
+2013-10-15 14:53:32 [FINEST] [MFFS] Sent event FMLConstructionEvent to mod MFFS
+2013-10-15 14:53:32 [FINEST] [minechem] Sending event FMLConstructionEvent to mod minechem
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] Testing mod minechem to verify it accepts its own version in a remote connection
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] The mod minechem accepts its own version (@VERSION@)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into minechem
+2013-10-15 14:53:32 [FINEST] [minechem] Sent event FMLConstructionEvent to mod minechem
+2013-10-15 14:53:32 [FINEST] [NEIPlugins] Sending event FMLConstructionEvent to mod NEIPlugins
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into NEIPlugins
+2013-10-15 14:53:32 [FINEST] [NEIPlugins] Sent event FMLConstructionEvent to mod NEIPlugins
+2013-10-15 14:53:32 [FINEST] [Railcraft] Sending event FMLConstructionEvent to mod Railcraft
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] Testing mod Railcraft to verify it accepts its own version in a remote connection
+2013-10-15 14:53:32 [FINEST] [ForgeModLoader] The mod Railcraft accepts its own version (8.1.0.0)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Railcraft
+2013-10-15 14:53:32 [FINEST] [Railcraft] Sent event FMLConstructionEvent to mod Railcraft
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Mod signature data
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.4.30.933): mcpc-plus-1.6.4-R0.1-forge933-B98.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.11.1.933): mcpc-plus-1.6.4-R0.1-forge933-B98.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	CodeChickenCore(CodeChicken Core:0.9.0.6): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	NotEnoughItems(Not Enough Items:1.6.1.5): NotEnoughItems 1.6.1.5.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	BuildCraft|Core(BuildCraft:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	BuildCraft|Builders(BC Builders:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	BuildCraft|Energy(BC Energy:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	BuildCraft|Factory(BC Factory:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	BuildCraft|Transport(BC Transport:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	BuildCraft|Silicon(BC Silicon:4.1.0): buildcraft-A-1.6.2-4.1.0.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	ICBM|Contraption(ICBM|Contraption:1.3.3): ICBM_Contraption_v1.3.3.254.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	ICBM|Sentry(ICBM|Sentry:1.3.3): ICBM_Sentry_v1.3.3.254.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	ICBM|Explosion(ICBM|Explosion:1.3.3): ICBM_Explosion_v1.3.3.254.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	MFFS(Modular Force Field System:3.4.0): MFFS_v3.4.0.231.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	minechem(MineChem:@VERSION@): Minechem4-413.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	NEIPlugins(NEI Plugins:1.1.0.2): NEIPlugins-1.1.0.2.jar (NO VALID CERTIFICATE FOUND)
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] 	Railcraft(Railcraft:8.1.0.0): Railcraft_1.6.2-8.1.0.0.jar (a0c255ac501b2749537d5824bb0f0588bf0320fa)
+2013-10-15 14:53:32 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-10-15 14:53:32 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-10-15 14:53:32 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-10-15 14:53:32 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-10-15 14:53:32 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-10-15 14:53:32 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-10-15 14:53:32 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-10-15 14:53:32 [FINEST] [CodeChickenCore] Sending event FMLPreInitializationEvent to mod CodeChickenCore
+2013-10-15 14:53:32 [FINEST] [CodeChickenCore] Sent event FMLPreInitializationEvent to mod CodeChickenCore
+2013-10-15 14:53:32 [FINEST] [NotEnoughItems] Sending event FMLPreInitializationEvent to mod NotEnoughItems
+2013-10-15 14:53:32 [FINEST] [NotEnoughItems] Sent event FMLPreInitializationEvent to mod NotEnoughItems
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Core] Sending event FMLPreInitializationEvent to mod BuildCraft|Core
+2013-10-15 14:53:32 [INFO] [Buildcraft] Starting BuildCraft 4.1.0 (:46)
+2013-10-15 14:53:32 [INFO] [Buildcraft] Copyright (c) SpaceToad, 2011
+2013-10-15 14:53:32 [INFO] [Buildcraft] http://www.mod-buildcraft.com
+2013-10-15 14:53:32 [INFO] [Buildcraft] Beginning version check
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemWrench(19362) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemSpring(1522) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19356) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19357) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19358) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19359) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19360) owned by BuildCraft|Core
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Core] Sent event FMLPreInitializationEvent to mod BuildCraft|Core
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Builders] Sending event FMLPreInitializationEvent to mod BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.builders.ItemBptTemplate(19361) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.builders.ItemBptBluePrint(19374) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1504) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1518) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1505) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1507) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1508) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1515) owned by BuildCraft|Builders
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Builders] Sent event FMLPreInitializationEvent to mod BuildCraft|Builders
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Energy] Sending event FMLPreInitializationEvent to mod BuildCraft|Energy
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.energy.ItemEngine(1510) owned by BuildCraft|Energy
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1530) owned by BuildCraft|Energy
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1531) owned by BuildCraft|Energy
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.energy.ItemBucketBuildcraft(19363) owned by BuildCraft|Energy
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.energy.ItemBucketBuildcraft(19366) owned by BuildCraft|Energy
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Energy] Sent event FMLPreInitializationEvent to mod BuildCraft|Energy
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Factory] Sending event FMLPreInitializationEvent to mod BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1500) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1501) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1502) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1509) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1503) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1512) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1511) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1524) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1514) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1519) owned by BuildCraft|Factory
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Factory] Sent event FMLPreInitializationEvent to mod BuildCraft|Factory
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Transport] Sending event FMLPreInitializationEvent to mod BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19365) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1513) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19416) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19423) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19417) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19418) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19424) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19419) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19420) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19421) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19422) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19425) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19426) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19478) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19476) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19436) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19437) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19438) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19439) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19440) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19443) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19479) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19477) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19456) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19457) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19458) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19464) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19459) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19460) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19461) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPipe(19480) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19369) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19370) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19371) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBuildCraft(19372) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemGate(19367) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemGate(19396) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemFacade(19397) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.transport.ItemPlug(19398) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1523) owned by BuildCraft|Transport
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Transport] Sent event FMLPreInitializationEvent to mod BuildCraft|Transport
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Silicon] Sending event FMLPreInitializationEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemBlockBuildCraft(1516) owned by BuildCraft|Silicon
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.silicon.ItemLaserTable(1517) owned by BuildCraft|Silicon
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item buildcraft.core.ItemRedstoneChipset(19373) owned by BuildCraft|Silicon
+2013-10-15 14:53:32 [FINEST] [BuildCraft|Silicon] Sent event FMLPreInitializationEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:32 [FINEST] [ICBM|Contraption] Sending event FMLPreInitializationEvent to mod ICBM|Contraption
+2013-10-15 14:53:32 [INFO] [ForgeModLoader] [Modstats] Config loaded. allowUpdates: true,  betaNotification: false, strict: false
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.core.base.ItemICBMBase(4156) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.core.base.ItemICBMBase(4157) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3880) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3886) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3768) owned by ICBM|Contraption
+2013-10-15 14:53:32 [INFO] [ForgeModLoader] ICBM|Contraption registered world generator universalelectricity.prefab.ore.OreGenerator@59bf5c8e
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.contraption.ItemAntidote(31999) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.contraption.ItemSignalDisrupter(31998) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.contraption.ItemTracker(31997) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3879) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3878) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3877) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3875) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3873) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.contraption.ItemblockSpikes(3876) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.contraption.block.ItemBlockConcreate(3874) owned by ICBM|Contraption
+2013-10-15 14:53:32 [FINEST] [ICBM|Contraption] Sent event FMLPreInitializationEvent to mod ICBM|Contraption
+2013-10-15 14:53:32 [FINEST] [ICBM|Sentry] Sending event FMLPreInitializationEvent to mod ICBM|Sentry
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.sentry.turret.ItemAmmo(21205) owned by ICBM|Sentry
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.sentry.turret.upgrades.ItemSentryUpgrade(21206) owned by ICBM|Sentry
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.sentry.turret.ItemBlockTurret(3517) owned by ICBM|Sentry
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(3518) owned by ICBM|Sentry
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Sentry entity registration for already registered class icbm.sentry.turret.mount.EntityMountPoint
+2013-10-15 14:53:32 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Sentry entity registration for already registered class icbm.sentry.damage.EntityTileDamagable
+2013-10-15 14:53:32 [FINEST] [ICBM|Sentry] Sent event FMLPreInitializationEvent to mod ICBM|Sentry
+2013-10-15 14:53:32 [FINEST] [ICBM|Explosion] Sending event FMLPreInitializationEvent to mod ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.missile.missile.ItemMissile(4159) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.items.ItemBombDefuser(4161) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.items.ItemRadarGun(4162) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.items.ItemRemoteDetonator(4163) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.items.ItemLaserDesignator(4164) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.items.ItemRocketLauncher(4167) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.missile.ItemGrenade(4168) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.cart.ItemBombCart(31996) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.missile.ItemBlockExplosive(3883) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item icbm.explosion.machines.ItemBlockMachine(3884) owned by ICBM|Explosion
+2013-10-15 14:53:32 [FINEST] [ICBM|Explosion] Sent event FMLPreInitializationEvent to mod ICBM|Explosion
+2013-10-15 14:53:32 [FINEST] [MFFS] Sending event FMLPreInitializationEvent to mod MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.ItemRemoteController(11387) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.base.ItemMFFS(11388) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.mode.ItemModeCube(11389) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.mode.ItemModeSphere(11390) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.mode.ItemModeTube(11391) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.mode.ItemModePyramid(11392) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.mode.ItemModeCylinder(11393) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.mode.ItemModeCustom(11394) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11395) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11396) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11397) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11398) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11399) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleFusion(11400) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleManipulator(11401) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11402) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleDisintegration(11403) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleShock(11404) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11405) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleSponge(11406) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleStablize(11407) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.card.ItemCard(11408) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.card.ItemCardFrequency(11409) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.card.ItemCardLink(11410) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.card.ItemCardID(11411) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.card.ItemCardInfinite(11412) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleAntiFriendly(11413) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleAntiHostile(11414) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleAntiPersonnel(11415) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleConfiscate(11416) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleWarn(11417) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleInterdictionMatrix(11418) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleInterdictionMatrix(11419) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.interdiction.ItemModuleInterdictionMatrix(11420) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11421) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11422) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.ItemModule(11423) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.base.ItemMFFS(11424) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item mffs.item.module.projector.ItemModuleRepulsion(11425) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1681) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1682) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1683) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1684) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1685) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1686) owned by MFFS
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1687) owned by MFFS
+2013-10-15 14:53:32 [FINEST] [MFFS] Sent event FMLPreInitializationEvent to mod MFFS
+2013-10-15 14:53:32 [FINEST] [minechem] Sending event FMLPreInitializationEvent to mod minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemElement(4992) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemMolecule(4993) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemLens(4994) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemAtomicManipulator(4995) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemFusionStar(4996) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemBlueprint(4997) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemTestTube(4998) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemChemistJournal(4999) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemArmorRadiationShield(5000) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemArmorRadiationShield(5001) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemArmorRadiationShield(5002) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemArmorRadiationShield(5003) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.PhotonicInduction(5004) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemPills(5005) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(4020) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(4013) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(4012) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(4014) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemGhostBlock(4016) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item ljdp.minechem.common.items.ItemBlockFusion(4017) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(4015) owned by minechem
+2013-10-15 14:53:32 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(4018) owned by minechem
+2013-10-15 14:53:33 [INFO] [minechem] PREINT PASSED
+2013-10-15 14:53:33 [FINEST] [minechem] Sent event FMLPreInitializationEvent to mod minechem
+2013-10-15 14:53:33 [FINEST] [NEIPlugins] Sending event FMLPreInitializationEvent to mod NEIPlugins
+2013-10-15 14:53:33 [FINEST] [NEIPlugins] Sent event FMLPreInitializationEvent to mod NEIPlugins
+2013-10-15 14:53:33 [FINEST] [Railcraft] Sending event FMLPreInitializationEvent to mod Railcraft
+2013-10-15 14:53:33 [FINE] [Railcraft] Pre-Init Phase
+2013-10-15 14:53:33 [FINER] [Railcraft] Module disabled: ModuleIC2, IC2 not detected
+2013-10-15 14:53:33 [FINER] [Railcraft] Pre-Init Start: ModuleCore
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(490) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemBucketRailcraft(7788) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(491) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemBucketRailcraft(7793) owned by Railcraft
+2013-10-15 14:53:33 [FINER] [Railcraft] Pre-Init Complete: ModuleCore
+2013-10-15 14:53:33 [FINER] [Railcraft] Pre-Init Start: ModuleAutomation
+2013-10-15 14:53:33 [FINER] [Railcraft] Pre-Init Complete: ModuleAutomation
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleCore
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemCrowbar(7815) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemCrowbarReinforced(7816) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemMagnifyingGlass(7817) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelShears(7822) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelSword(7824) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelShovel(7823) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelPickaxe(7821) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelAxe(7819) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelHoe(7820) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelArmor(7759) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelArmor(7761) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelArmor(7760) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemSteelArmor(7758) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemOveralls(7757) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemNugget(7797) owned by Railcraft
+2013-10-15 14:53:33 [INFO] [minechem] DefaultOreDictionaryHandler registered : nuggetIron
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemIngot(7796) owned by Railcraft
+2013-10-15 14:53:33 [INFO] [fml.ItemTracker] The mod Railcraft is overwriting existing item at 328 (net.minecraft.item.ItemMinecart from Minecraft) with mods.railcraft.common.carts.ItemCartVanilla
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartVanilla(328) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.basic as Railcraft.railcraft.cart.basic
+2013-10-15 14:53:33 [INFO] [fml.ItemTracker] The mod Railcraft is overwriting existing item at 342 (net.minecraft.item.ItemMinecart from Minecraft) with mods.railcraft.common.carts.ItemCartVanilla
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartVanilla(342) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.chest as Railcraft.railcraft.cart.chest
+2013-10-15 14:53:33 [INFO] [fml.ItemTracker] The mod Railcraft is overwriting existing item at 343 (net.minecraft.item.ItemMinecart from Minecraft) with mods.railcraft.common.carts.ItemCartVanilla
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartVanilla(343) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.furnace as Railcraft.railcraft.cart.furnace
+2013-10-15 14:53:33 [INFO] [fml.ItemTracker] The mod Railcraft is overwriting existing item at 407 (net.minecraft.item.ItemMinecart from Minecraft) with mods.railcraft.common.carts.ItemCartVanilla
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartVanilla(407) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.tnt as Railcraft.railcraft.cart.tnt
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemRail(7801) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemTie(7805) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemFluidContainer(7787) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemFluidContainer(7789) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemFluidContainer(7792) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemFluidContainer(7791) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.fluids.ItemFluidContainer(7790) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemRailcraft(7803) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemRailbed(7802) owned by Railcraft
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleCore
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleFactory
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.cube.ItemCube(457) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemRailcraft(7794) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.machine.ItemMachine(451) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [Railcraft] Adding Coke Oven recipe: net.minecraft.item.ItemCoal, 263, 0
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemPlate(7800) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemDust(7782) owned by Railcraft
+2013-10-15 14:53:33 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: blockSteel, id=457 meta=2
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleFactory
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleExtras
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.tracks.ItemTrack(454) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(455) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.tnt.wood as Railcraft.railcraft.cart.tnt.wood
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7778) owned by Railcraft
+2013-10-15 14:53:33 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.work as Railcraft.railcraft.cart.work
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7781) owned by Railcraft
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleExtras
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleTrack
+2013-10-15 14:53:33 [WARNING] [Buildcraft] Using outdated version [4.1.0 (build:46)] for Minecraft 1.6.4. Consider updating.
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleTrack
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleTracksHighSpeed
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleTracksHighSpeed
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleTracksWood
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleTracksWood
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleTracksReinforced
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleTracksReinforced
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleSignals
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.signals.ItemSignal(456) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.signals.ItemSignalBlockSurveyor(7825) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.signals.ItemSignalTuner(7818) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemCircuit(7798) owned by Railcraft
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemRailcraft(7804) owned by Railcraft
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Complete: ModuleSignals
+2013-10-15 14:53:33 [FINER] [Railcraft] Init-First Start: ModuleStructures
+2013-10-15 14:53:33 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.post.ItemPost(459) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.post.ItemPostMetal(460) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.wall.ItemWall(461) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.wall.ItemWall(463) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.stairs.ItemStair(464) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.slab.ItemSlab(465) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.glass.ItemStrengthGlass(474) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(467) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(466) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(469) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(472) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(471) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(470) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(468) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.aesthetics.brick.ItemBrick(475) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleStructures
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleAutomation
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.detector.ItemDetector(450) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.machine.ItemMachine(453) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.bore as Railcraft.railcraft.cart.bore
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemTunnelBore(7769) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemBoreHeadDiamond(7812) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemBoreHeadSteel(7814) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemBoreHeadIron(7813) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.track.relayer as Railcraft.railcraft.cart.track.relayer
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7779) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.undercutter as Railcraft.railcraft.cart.undercutter
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7780) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleAutomation
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleTransport
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.machine.ItemMachine(452) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.tank as Railcraft.railcraft.cart.tank
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7776) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleTransport
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleSteam
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemGear(7799) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleSteam
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleWorld
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.blocks.ore.ItemOre(458) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreSulfur, id=458 meta=0
+2013-10-15 14:53:34 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreSaltpeter, id=458 meta=1
+2013-10-15 14:53:34 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreDiamond, id=458 meta=2
+2013-10-15 14:53:34 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreEmerald, id=458 meta=3
+2013-10-15 14:53:34 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreLapis, id=458 meta=4
+2013-10-15 14:53:34 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreFirestone, id=458 meta=5
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(462) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleWorld
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleChunkLoading
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.anchor as Railcraft.railcraft.cart.anchor
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartAnchor(7766) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.anchor.personal as Railcraft.railcraft.cart.anchor.personal
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartAnchor(7768) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.anchor.admin as Railcraft.railcraft.cart.anchor.admin
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCartAnchor(7767) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleChunkLoading
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleSeasonal
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.pumpkin as Railcraft.railcraft.cart.pumpkin
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7775) owned by Railcraft
+2013-10-15 14:53:34 [INFO] [Railcraft] Activating Halloween Seasonal Pack
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.gift as Railcraft.railcraft.cart.gift
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemCart(7773) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleSeasonal
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleTrain
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleTrain
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleLocomotives
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemWhistleTuner(7826) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity railcraft.cart.loco.steam as Railcraft.railcraft.cart.loco.steam
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.carts.ItemLocomotive(7774) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleLocomotives
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleRouting
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemRoutingTable(7809) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemTicketGold(7811) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemTicket(7810) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleRouting
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleEmblem
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.emblems.ItemEmblem(7783) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleEmblem
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Start: ModuleMagic
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(477) owned by Railcraft
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod Railcraft entity ItemFirestone as Railcraft.ItemFirestone
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.firestone.ItemFirestoneRaw(7785) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.firestone.ItemFirestoneCut(7784) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.firestone.ItemFirestoneRefined(7786) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-First Complete: ModuleMagic
+2013-10-15 14:53:34 [FINEST] [Railcraft] Sent event FMLPreInitializationEvent to mod Railcraft
+2013-10-15 14:53:34 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-10-15 14:53:34 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-10-15 14:53:34 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-10-15 14:53:34 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-10-15 14:53:34 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-10-15 14:53:34 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-10-15 14:53:34 [FINEST] [CodeChickenCore] Sending event FMLInitializationEvent to mod CodeChickenCore
+2013-10-15 14:53:34 [FINEST] [CodeChickenCore] Sent event FMLInitializationEvent to mod CodeChickenCore
+2013-10-15 14:53:34 [FINEST] [NotEnoughItems] Sending event FMLInitializationEvent to mod NotEnoughItems
+2013-10-15 14:53:34 [FINEST] [NotEnoughItems] Sent event FMLInitializationEvent to mod NotEnoughItems
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Core] Sending event FMLInitializationEvent to mod BuildCraft|Core
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod BuildCraft|Core entity bcRobot as BuildCraft|Core.bcRobot
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod BuildCraft|Core entity bcLaser as BuildCraft|Core.bcLaser
+2013-10-15 14:53:34 [FINEST] [ForgeModLoader] Automatically registered mod BuildCraft|Core entity bcEnergyLaser as BuildCraft|Core.bcEnergyLaser
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Core] Sent event FMLInitializationEvent to mod BuildCraft|Core
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Builders] Sending event FMLInitializationEvent to mod BuildCraft|Builders
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Builders] Sent event FMLInitializationEvent to mod BuildCraft|Builders
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Energy] Sending event FMLInitializationEvent to mod BuildCraft|Energy
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Energy] Sent event FMLInitializationEvent to mod BuildCraft|Energy
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Factory] Sending event FMLInitializationEvent to mod BuildCraft|Factory
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Factory] Sent event FMLInitializationEvent to mod BuildCraft|Factory
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Transport] Sending event FMLInitializationEvent to mod BuildCraft|Transport
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Transport] Sent event FMLInitializationEvent to mod BuildCraft|Transport
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Silicon] Sending event FMLInitializationEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:34 [FINEST] [BuildCraft|Silicon] Sent event FMLInitializationEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:34 [FINEST] [ICBM|Contraption] Sending event FMLInitializationEvent to mod ICBM|Contraption
+2013-10-15 14:53:34 [FINEST] [ICBM|Contraption] Sent event FMLInitializationEvent to mod ICBM|Contraption
+2013-10-15 14:53:34 [FINEST] [ICBM|Sentry] Sending event FMLInitializationEvent to mod ICBM|Sentry
+2013-10-15 14:53:34 [FINEST] [ICBM|Sentry] Sent event FMLInitializationEvent to mod ICBM|Sentry
+2013-10-15 14:53:34 [FINEST] [ICBM|Explosion] Sending event FMLInitializationEvent to mod ICBM|Explosion
+2013-10-15 14:53:34 [FINEST] [ICBM|Explosion] Sent event FMLInitializationEvent to mod ICBM|Explosion
+2013-10-15 14:53:34 [FINEST] [MFFS] Sending event FMLInitializationEvent to mod MFFS
+2013-10-15 14:53:34 [FINE] [Modular Force Field System] Language(s) Loaded: 4
+2013-10-15 14:53:34 [FINEST] [MFFS] Sent event FMLInitializationEvent to mod MFFS
+2013-10-15 14:53:34 [FINEST] [minechem] Sending event FMLInitializationEvent to mod minechem
+2013-10-15 14:53:34 [INFO] [ForgeModLoader] minechem registered world generator ljdp.minechem.common.MinechemGeneration@7a3563f9
+2013-10-15 14:53:34 [INFO] [minechem] INIT PASSED
+2013-10-15 14:53:34 [FINEST] [minechem] Sent event FMLInitializationEvent to mod minechem
+2013-10-15 14:53:34 [FINEST] [NEIPlugins] Sending event FMLInitializationEvent to mod NEIPlugins
+2013-10-15 14:53:34 [FINEST] [NEIPlugins] Sent event FMLInitializationEvent to mod NEIPlugins
+2013-10-15 14:53:34 [FINEST] [Railcraft] Sending event FMLInitializationEvent to mod Railcraft
+2013-10-15 14:53:34 [FINE] [Railcraft] Init Phase
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Start: ModuleCore
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item mods.railcraft.common.items.ItemGoggles(7756) owned by Railcraft
+2013-10-15 14:53:34 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(473) owned by Railcraft
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Complete: ModuleCore
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Start: ModuleFactory
+2013-10-15 14:53:34 [FINEST] [Railcraft] Adding Coke Oven recipe: net.minecraft.item.ItemBlock, 173, 0
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Complete: ModuleFactory
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Start: ModuleStructures
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Complete: ModuleStructures
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Start: ModuleAutomation
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Complete: ModuleAutomation
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Start: ModuleSteam
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Complete: ModuleSteam
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Start: ModuleTrain
+2013-10-15 14:53:34 [FINER] [Railcraft] Init-Second Complete: ModuleTrain
+2013-10-15 14:53:34 [FINEST] [Railcraft] Sent event FMLInitializationEvent to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-10-15 14:53:35 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-10-15 14:53:35 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-10-15 14:53:35 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sending event IMCEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sent event IMCEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sending event IMCEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sent event IMCEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sending event IMCEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sent event IMCEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sending event IMCEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sent event IMCEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sending event IMCEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sent event IMCEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sending event IMCEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sent event IMCEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 67 IMC messages to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sending event IMCEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sent event IMCEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sending event IMCEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sent event IMCEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sending event IMCEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sent event IMCEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sending event IMCEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sent event IMCEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sending event IMCEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sent event IMCEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod MFFS
+2013-10-15 14:53:35 [FINEST] [MFFS] Sending event IMCEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [MFFS] Sent event IMCEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod minechem
+2013-10-15 14:53:35 [FINEST] [minechem] Sending event IMCEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [minechem] Sent event IMCEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sending event IMCEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sent event IMCEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sending event IMCEvent to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sent event IMCEvent to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sending event FMLPostInitializationEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sent event FMLPostInitializationEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sending event FMLPostInitializationEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sent event FMLPostInitializationEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sending event FMLPostInitializationEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sent event FMLPostInitializationEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sending event FMLPostInitializationEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sent event FMLPostInitializationEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sending event FMLPostInitializationEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sent event FMLPostInitializationEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sending event FMLPostInitializationEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sent event FMLPostInitializationEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sending event FMLPostInitializationEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sent event FMLPostInitializationEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sending event FMLPostInitializationEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sent event FMLPostInitializationEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sending event FMLPostInitializationEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:CIRCUIT_T1
+2013-10-15 14:53:35 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: calclavia:CIRCUIT_T1, id=75 meta=0
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:CIRCUIT_T2
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:CIRCUIT_T3
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:ADVANCED_BATTERY
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:BATTERY
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:BATTERY_BOX
+2013-10-15 14:53:35 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: calclavia:BATTERY_BOX, id=41 meta=0
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:WRENCH
+2013-10-15 14:53:35 [SEVERE] [ForgeModLoader] Universal Recipes: Error Registering calclavia:MOTOR
+2013-10-15 14:53:35 [FINER] [Railcraft] Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: calclavia:MOTOR, id=33 meta=0
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sent event FMLPostInitializationEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sending event FMLPostInitializationEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sent event FMLPostInitializationEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sending event FMLPostInitializationEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.missile.EntityExplosive
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.missile.missile.EntityMissile
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.explosive.EntityExplosion
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.EntityFlyingBlock
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.EntityLightBeam
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.EntityFragments
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.missile.EntityGrenade
+2013-10-15 14:53:35 [FINE] [ForgeModLoader] Skipping automatic mod ICBM|Explosion entity registration for already registered class icbm.explosion.cart.EntityBombCart
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sent event FMLPostInitializationEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [MFFS] Sending event FMLPostInitializationEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [MFFS] Sent event FMLPostInitializationEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [minechem] Sending event FMLPostInitializationEvent to mod minechem
+2013-10-15 14:53:35 [INFO] [minechem] Injected blueprints into loot chest generator
+2013-10-15 14:53:35 [INFO] [minechem] POSTINIT PASSED
+2013-10-15 14:53:35 [FINEST] [minechem] Sent event FMLPostInitializationEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sending event FMLPostInitializationEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin BuildCraft (1.5.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Forestry (1.4.5)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin ForestryShowSecrets (1.0.1)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Forge (1.4.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Fuel Tooltip (1.0.2)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin IC2_exp (1.1.1)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin IC2 (1.1.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Lists (1.0.2)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Minecraft (1.0.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Railcraft (1.6.5)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin RailcraftFuels (1.1.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin Stat (1.0.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Found NEIPlugins plugin TConstruct (1.1.0)
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Plugin IC2_exp (1.1.1) not active
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Plugin ForestryShowSecrets (1.0.1) not active
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Plugin IC2 (1.1.0) not active
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Plugin TConstruct (1.1.0) not active
+2013-10-15 14:53:35 [FINE] [NEIPlugins] Plugin Forestry (1.4.5) not active
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sent event FMLPostInitializationEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sending event FMLPostInitializationEvent to mod Railcraft
+2013-10-15 14:53:35 [FINE] [Railcraft] Post-Init Phase
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Start: ModuleCore
+2013-10-15 14:53:35 [FINER] [Railcraft] Registered Fuel as a valid Boiler fuel source.
+2013-10-15 14:53:35 [FINER] [Railcraft] Registered Creosote as a valid Boiler fuel source.
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Complete: ModuleCore
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Start: ModuleFactory
+2013-10-15 14:53:35 [FINEST] [Railcraft] Adding Coke Oven recipe: net.minecraft.item.ItemMultiTextureTile, 17, 32767
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Complete: ModuleFactory
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Start: ModuleTransport
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Complete: ModuleTransport
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Start: ModuleSteam
+2013-10-15 14:53:35 [FINER] [Railcraft] Post-Init Complete: ModuleSteam
+2013-10-15 14:53:35 [FINEST] [Railcraft] Could not register CraftGuide plugins: CraftGuide missing.
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sent event FMLPostInitializationEvent to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sending event FMLLoadCompleteEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sent event FMLLoadCompleteEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sending event FMLLoadCompleteEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sent event FMLLoadCompleteEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sending event FMLLoadCompleteEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sent event FMLLoadCompleteEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sending event FMLLoadCompleteEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sent event FMLLoadCompleteEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sending event FMLLoadCompleteEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sent event FMLLoadCompleteEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sending event FMLLoadCompleteEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sent event FMLLoadCompleteEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sending event FMLLoadCompleteEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sent event FMLLoadCompleteEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sending event FMLLoadCompleteEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sent event FMLLoadCompleteEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sending event FMLLoadCompleteEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sent event FMLLoadCompleteEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sending event FMLLoadCompleteEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sent event FMLLoadCompleteEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sending event FMLLoadCompleteEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sent event FMLLoadCompleteEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [MFFS] Sending event FMLLoadCompleteEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [MFFS] Sent event FMLLoadCompleteEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [minechem] Sending event FMLLoadCompleteEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [minechem] Sent event FMLLoadCompleteEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sending event FMLLoadCompleteEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sent event FMLLoadCompleteEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sending event FMLLoadCompleteEvent to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sent event FMLLoadCompleteEvent to mod Railcraft
+2013-10-15 14:53:35 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 18 mods
+2013-10-15 14:53:35 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-10-15 14:53:35 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-10-15 14:53:35 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sending event FMLServerAboutToStartEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [CodeChickenCore] Sent event FMLServerAboutToStartEvent to mod CodeChickenCore
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sending event FMLServerAboutToStartEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [NotEnoughItems] Sent event FMLServerAboutToStartEvent to mod NotEnoughItems
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sending event FMLServerAboutToStartEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Core] Sent event FMLServerAboutToStartEvent to mod BuildCraft|Core
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sending event FMLServerAboutToStartEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Builders] Sent event FMLServerAboutToStartEvent to mod BuildCraft|Builders
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sending event FMLServerAboutToStartEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Energy] Sent event FMLServerAboutToStartEvent to mod BuildCraft|Energy
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sending event FMLServerAboutToStartEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Factory] Sent event FMLServerAboutToStartEvent to mod BuildCraft|Factory
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sending event FMLServerAboutToStartEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Transport] Sent event FMLServerAboutToStartEvent to mod BuildCraft|Transport
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sending event FMLServerAboutToStartEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [BuildCraft|Silicon] Sent event FMLServerAboutToStartEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sending event FMLServerAboutToStartEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Contraption] Sent event FMLServerAboutToStartEvent to mod ICBM|Contraption
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sending event FMLServerAboutToStartEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Sentry] Sent event FMLServerAboutToStartEvent to mod ICBM|Sentry
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sending event FMLServerAboutToStartEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [ICBM|Explosion] Sent event FMLServerAboutToStartEvent to mod ICBM|Explosion
+2013-10-15 14:53:35 [FINEST] [MFFS] Sending event FMLServerAboutToStartEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [MFFS] Sent event FMLServerAboutToStartEvent to mod MFFS
+2013-10-15 14:53:35 [FINEST] [minechem] Sending event FMLServerAboutToStartEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [minechem] Sent event FMLServerAboutToStartEvent to mod minechem
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sending event FMLServerAboutToStartEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [NEIPlugins] Sent event FMLServerAboutToStartEvent to mod NEIPlugins
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sending event FMLServerAboutToStartEvent to mod Railcraft
+2013-10-15 14:53:35 [FINEST] [Railcraft] Sent event FMLServerAboutToStartEvent to mod Railcraft
+2013-10-15 14:53:35 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={4159=Item 4159, Type icbm.explosion.missile.missile.ItemMissile, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4156=Item 4156, Type icbm.core.base.ItemICBMBase, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 4157=Item 4157, Type icbm.core.base.ItemICBMBase, owned by ICBM|Contraption, ordinal 1, name null, claimedModId null, 4164=Item 4164, Type icbm.explosion.items.ItemLaserDesignator, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4167=Item 4167, Type icbm.explosion.items.ItemRocketLauncher, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4161=Item 4161, Type icbm.explosion.items.ItemBombDefuser, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4163=Item 4163, Type icbm.explosion.items.ItemRemoteDetonator, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4162=Item 4162, Type icbm.explosion.items.ItemRadarGun, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4168=Item 4168, Type icbm.explosion.missile.ItemGrenade, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 3517=Item 3517, Type icbm.sentry.turret.ItemBlockTurret, owned by ICBM|Sentry, ordinal 0, name ICBMTurret, claimedModId null, 3518=Item 3518, Type icbm.sentry.platform.BlockTurretPlatform, owned by ICBM|Sentry, ordinal 0, name ICBMPlatform, claimedModId null, 477=Item 477, Type mods.railcraft.common.items.firestone.BlockFirestoneRecharge, owned by Railcraft, ordinal 0, name tile.block.firestone.recharge, claimedModId null, 474=Item 474, Type mods.railcraft.common.blocks.aesthetics.glass.ItemStrengthGlass, owned by Railcraft, ordinal 0, name tile.railcraft.glass, claimedModId null, 475=Item 475, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 7, name tile.railcraft.brick.nether, claimedModId null, 472=Item 472, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 3, name tile.railcraft.brick.frostbound, claimedModId null, 473=Item 473, Type mods.railcraft.common.blocks.hidden.BlockHidden, owned by Railcraft, ordinal 0, name tile.railcraft.hidden, claimedModId null, 470=Item 470, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 5, name tile.railcraft.brick.bleachedbone, claimedModId null, 471=Item 471, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 4, name tile.railcraft.brick.quarried, claimedModId null, 468=Item 468, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 6, name tile.railcraft.brick.bloodstained, claimedModId null, 469=Item 469, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 2, name tile.railcraft.brick.sandy, claimedModId null, 466=Item 466, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 1, name tile.railcraft.brick.abyssal, claimedModId null, 467=Item 467, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 0, name tile.railcraft.brick.infernal, claimedModId null, 464=Item 464, Type mods.railcraft.common.blocks.aesthetics.stairs.ItemStair, owned by Railcraft, ordinal 0, name tile.railcraft.stair, claimedModId null, 465=Item 465, Type mods.railcraft.common.blocks.aesthetics.slab.ItemSlab, owned by Railcraft, ordinal 0, name tile.railcraft.slab, claimedModId null, 463=Item 463, Type mods.railcraft.common.blocks.aesthetics.wall.ItemWall, owned by Railcraft, ordinal 1, name tile.railcraft.wall.beta, claimedModId null, 462=Item 462, Type mods.railcraft.common.blocks.ore.BlockWorldLogic, owned by Railcraft, ordinal 0, name tile.railcraft.worldlogic, claimedModId null, 461=Item 461, Type mods.railcraft.common.blocks.aesthetics.wall.ItemWall, owned by Railcraft, ordinal 0, name tile.railcraft.wall.alpha, claimedModId null, 460=Item 460, Type mods.railcraft.common.blocks.aesthetics.post.ItemPostMetal, owned by Railcraft, ordinal 0, name tile.railcraft.post.metal, claimedModId null, 459=Item 459, Type mods.railcraft.common.blocks.aesthetics.post.ItemPost, owned by Railcraft, ordinal 0, name tile.railcraft.post, claimedModId null, 458=Item 458, Type mods.railcraft.common.blocks.ore.ItemOre, owned by Railcraft, ordinal 0, name tile.railcraft.ore, claimedModId null, 457=Item 457, Type mods.railcraft.common.blocks.aesthetics.cube.ItemCube, owned by Railcraft, ordinal 0, name tile.railcraft.cube, claimedModId null, 456=Item 456, Type mods.railcraft.common.blocks.signals.ItemSignal, owned by Railcraft, ordinal 0, name tile.railcraft.signal, claimedModId null, 455=Item 455, Type mods.railcraft.common.blocks.tracks.BlockTrackElevator, owned by Railcraft, ordinal 0, name tile.railcraft.track.elevator, claimedModId null, 454=Item 454, Type mods.railcraft.common.blocks.tracks.ItemTrack, owned by Railcraft, ordinal 0, name tile.railcraft.track, claimedModId null, 453=Item 453, Type mods.railcraft.common.blocks.machine.ItemMachine, owned by Railcraft, ordinal 1, name tile.railcraft.machine.gamma, claimedModId null, 452=Item 452, Type mods.railcraft.common.blocks.machine.ItemMachine, owned by Railcraft, ordinal 2, name tile.railcraft.machine.beta, claimedModId null, 451=Item 451, Type mods.railcraft.common.blocks.machine.ItemMachine, owned by Railcraft, ordinal 0, name tile.railcraft.machine.alpha, claimedModId null, 450=Item 450, Type mods.railcraft.common.blocks.detector.ItemDetector, owned by Railcraft, ordinal 0, name tile.railcraft.detector, claimedModId null, 491=Item 491, Type mods.railcraft.common.fluids.BlockRailcraftFluidFinite, owned by Railcraft, ordinal 0, name tile.railcraft.block.fluid.steam, claimedModId null, 490=Item 490, Type mods.railcraft.common.fluids.BlockRailcraftFluid, owned by Railcraft, ordinal 0, name tile.railcraft.block.fluid.creosote, claimedModId null, 11410=Item 11410, Type mffs.item.card.ItemCardLink, owned by MFFS, ordinal 0, name null, claimedModId null, 11411=Item 11411, Type mffs.item.card.ItemCardID, owned by MFFS, ordinal 0, name null, claimedModId null, 11408=Item 11408, Type mffs.card.ItemCard, owned by MFFS, ordinal 0, name null, claimedModId null, 11409=Item 11409, Type mffs.item.card.ItemCardFrequency, owned by MFFS, ordinal 0, name null, claimedModId null, 11414=Item 11414, Type mffs.item.module.interdiction.ItemModuleAntiHostile, owned by MFFS, ordinal 0, name null, claimedModId null, 11415=Item 11415, Type mffs.item.module.interdiction.ItemModuleAntiPersonnel, owned by MFFS, ordinal 0, name null, claimedModId null, 11412=Item 11412, Type mffs.item.card.ItemCardInfinite, owned by MFFS, ordinal 0, name null, claimedModId null, 11413=Item 11413, Type mffs.item.module.interdiction.ItemModuleAntiFriendly, owned by MFFS, ordinal 0, name null, claimedModId null, 11418=Item 11418, Type mffs.item.module.interdiction.ItemModuleInterdictionMatrix, owned by MFFS, ordinal 0, name null, claimedModId null, 11419=Item 11419, Type mffs.item.module.interdiction.ItemModuleInterdictionMatrix, owned by MFFS, ordinal 1, name null, claimedModId null, 11416=Item 11416, Type mffs.item.module.interdiction.ItemModuleConfiscate, owned by MFFS, ordinal 0, name null, claimedModId null, 11417=Item 11417, Type mffs.item.module.interdiction.ItemModuleWarn, owned by MFFS, ordinal 0, name null, claimedModId null, 11422=Item 11422, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 8, name null, claimedModId null, 11423=Item 11423, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 9, name null, claimedModId null, 11420=Item 11420, Type mffs.item.module.interdiction.ItemModuleInterdictionMatrix, owned by MFFS, ordinal 2, name null, claimedModId null, 11421=Item 11421, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 7, name null, claimedModId null, 11395=Item 11395, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 0, name null, claimedModId null, 11394=Item 11394, Type mffs.item.mode.ItemModeCustom, owned by MFFS, ordinal 0, name null, claimedModId null, 11393=Item 11393, Type mffs.item.mode.ItemModeCylinder, owned by MFFS, ordinal 0, name null, claimedModId null, 11392=Item 11392, Type mffs.item.mode.ItemModePyramid, owned by MFFS, ordinal 0, name null, claimedModId null, 11399=Item 11399, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 4, name null, claimedModId null, 11398=Item 11398, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 3, name null, claimedModId null, 11397=Item 11397, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 2, name null, claimedModId null, 11396=Item 11396, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 1, name null, claimedModId null, 11403=Item 11403, Type mffs.item.module.projector.ItemModuleDisintegration, owned by MFFS, ordinal 0, name null, claimedModId null, 11402=Item 11402, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 5, name null, claimedModId null, 11401=Item 11401, Type mffs.item.module.projector.ItemModuleManipulator, owned by MFFS, ordinal 0, name null, claimedModId null, 11400=Item 11400, Type mffs.item.module.projector.ItemModuleFusion, owned by MFFS, ordinal 0, name null, claimedModId null, 11407=Item 11407, Type mffs.item.module.projector.ItemModuleStablize, owned by MFFS, ordinal 0, name null, claimedModId null, 11406=Item 11406, Type mffs.item.module.projector.ItemModuleSponge, owned by MFFS, ordinal 0, name null, claimedModId null, 11405=Item 11405, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 6, name null, claimedModId null, 11404=Item 11404, Type mffs.item.module.projector.ItemModuleShock, owned by MFFS, ordinal 0, name null, claimedModId null, 11425=Item 11425, Type mffs.item.module.projector.ItemModuleRepulsion, owned by MFFS, ordinal 0, name null, claimedModId null, 11424=Item 11424, Type mffs.base.ItemMFFS, owned by MFFS, ordinal 1, name null, claimedModId null, 3768=Item 3768, Type atomicscience.api.BlockRadioactive, owned by ICBM|Contraption, ordinal 0, name Radioactive, claimedModId null, 5004=Item 5004, Type ljdp.minechem.common.items.PhotonicInduction, owned by minechem, ordinal 0, name null, claimedModId null, 5005=Item 5005, Type ljdp.minechem.common.items.ItemPills, owned by minechem, ordinal 0, name null, claimedModId null, 5002=Item 5002, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 2, name null, claimedModId null, 5003=Item 5003, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 3, name null, claimedModId null, 5000=Item 5000, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 0, name null, claimedModId null, 5001=Item 5001, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 1, name null, claimedModId null, 4998=Item 4998, Type ljdp.minechem.common.items.ItemTestTube, owned by minechem, ordinal 0, name null, claimedModId null, 4999=Item 4999, Type ljdp.minechem.common.items.ItemChemistJournal, owned by minechem, ordinal 0, name null, claimedModId null, 4996=Item 4996, Type ljdp.minechem.common.items.ItemFusionStar, owned by minechem, ordinal 0, name null, claimedModId null, 4997=Item 4997, Type ljdp.minechem.common.items.ItemBlueprint, owned by minechem, ordinal 0, name null, claimedModId null, 4994=Item 4994, Type ljdp.minechem.common.items.ItemLens, owned by minechem, ordinal 0, name null, claimedModId null, 4995=Item 4995, Type ljdp.minechem.common.items.ItemAtomicManipulator, owned by minechem, ordinal 0, name null, claimedModId null, 4992=Item 4992, Type ljdp.minechem.common.items.ItemElement, owned by minechem, ordinal 0, name null, claimedModId null, 4993=Item 4993, Type ljdp.minechem.common.items.ItemMolecule, owned by minechem, ordinal 0, name null, claimedModId null, 11389=Item 11389, Type mffs.item.mode.ItemModeCube, owned by MFFS, ordinal 0, name null, claimedModId null, 11388=Item 11388, Type mffs.base.ItemMFFS, owned by MFFS, ordinal 0, name null, claimedModId null, 11391=Item 11391, Type mffs.item.mode.ItemModeTube, owned by MFFS, ordinal 0, name null, claimedModId null, 11390=Item 11390, Type mffs.item.mode.ItemModeSphere, owned by MFFS, ordinal 0, name null, claimedModId null, 11387=Item 11387, Type mffs.item.ItemRemoteController, owned by MFFS, ordinal 0, name null, claimedModId null, 1684=Item 1684, Type mffs.block.BlockForceFieldProjector, owned by MFFS, ordinal 0, name tile.mffs:projector, claimedModId null, 1685=Item 1685, Type mffs.block.BlockBiometricIdentifier, owned by MFFS, ordinal 0, name tile.mffs:biometricIdentifier, claimedModId null, 1686=Item 1686, Type mffs.block.BlockInterdictionMatrix, owned by MFFS, ordinal 0, name tile.mffs:interdictionMatrix, claimedModId null, 1687=Item 1687, Type mffs.block.BlockForceManipulator, owned by MFFS, ordinal 0, name tile.mffs:manipulator, claimedModId null, 1681=Item 1681, Type mffs.block.BlockForceField, owned by MFFS, ordinal 0, name tile.mffs:forceField, claimedModId null, 1682=Item 1682, Type mffs.block.BlockCoercionDeriver, owned by MFFS, ordinal 0, name tile.mffs:coercionDeriver, claimedModId null, 1683=Item 1683, Type mffs.block.BlockFortronCapacitor, owned by MFFS, ordinal 0, name tile.mffs:fortronCapacitor, claimedModId null, 7825=Item 7825, Type mods.railcraft.common.blocks.signals.ItemSignalBlockSurveyor, owned by Railcraft, ordinal 0, name railcraft.tool.surveyor, claimedModId null, 7824=Item 7824, Type mods.railcraft.common.items.ItemSteelSword, owned by Railcraft, ordinal 0, name railcraft.tool.steel.sword, claimedModId null, 7826=Item 7826, Type mods.railcraft.common.items.ItemWhistleTuner, owned by Railcraft, ordinal 0, name null, claimedModId null, 4013=Item 4013, Type ljdp.minechem.common.blocks.BlockDecomposer, owned by minechem, ordinal 0, name minechem.blockDecomposer, claimedModId null, 4012=Item 4012, Type ljdp.minechem.common.blocks.BlockMicroscope, owned by minechem, ordinal 0, name minechem.blockMicroscope, claimedModId null, 4015=Item 4015, Type ljdp.minechem.common.blocks.BlockBlueprintProjector, owned by minechem, ordinal 0, name minechem.blockBlueprintProjector, claimedModId null, 4014=Item 4014, Type ljdp.minechem.common.blocks.BlockSynthesis, owned by minechem, ordinal 0, name minechem.blockSynthesis, claimedModId null, 4020=Item 4020, Type ljdp.minechem.common.blocks.OreUranium, owned by minechem, ordinal 0, name minechem.uraniumOre, claimedModId null, 7812=Item 7812, Type mods.railcraft.common.carts.ItemBoreHeadDiamond, owned by Railcraft, ordinal 0, name null, claimedModId null, 7813=Item 7813, Type mods.railcraft.common.carts.ItemBoreHeadIron, owned by Railcraft, ordinal 0, name null, claimedModId null, 7814=Item 7814, Type mods.railcraft.common.carts.ItemBoreHeadSteel, owned by Railcraft, ordinal 0, name null, claimedModId null, 7815=Item 7815, Type mods.railcraft.common.items.ItemCrowbar, owned by Railcraft, ordinal 0, name railcraft.tool.crowbar, claimedModId null, 4016=Item 4016, Type ljdp.minechem.common.items.ItemGhostBlock, owned by minechem, ordinal 0, name minechem.blockGhostBlock, claimedModId null, 4017=Item 4017, Type ljdp.minechem.common.items.ItemBlockFusion, owned by minechem, ordinal 0, name minechem.blockFusion, claimedModId null, 7809=Item 7809, Type mods.railcraft.common.items.ItemRoutingTable, owned by Railcraft, ordinal 0, name null, claimedModId null, 4018=Item 4018, Type ljdp.minechem.common.blocks.BlockChemicalStorage, owned by minechem, ordinal 0, name minechem.blockChemicalStorage, claimedModId null, 7810=Item 7810, Type mods.railcraft.common.items.ItemTicket, owned by Railcraft, ordinal 0, name null, claimedModId null, 7811=Item 7811, Type mods.railcraft.common.items.ItemTicketGold, owned by Railcraft, ordinal 0, name null, claimedModId null, 21205=Item 21205, Type icbm.sentry.turret.ItemAmmo, owned by ICBM|Sentry, ordinal 0, name null, claimedModId null, 7820=Item 7820, Type mods.railcraft.common.items.ItemSteelHoe, owned by Railcraft, ordinal 0, name railcraft.tool.steel.hoe, claimedModId null, 7821=Item 7821, Type mods.railcraft.common.items.ItemSteelPickaxe, owned by Railcraft, ordinal 0, name railcraft.tool.steel.pickaxe, claimedModId null, 7822=Item 7822, Type mods.railcraft.common.items.ItemSteelShears, owned by Railcraft, ordinal 0, name railcraft.tool.steel.shears, claimedModId null, 21206=Item 21206, Type icbm.sentry.turret.upgrades.ItemSentryUpgrade, owned by ICBM|Sentry, ordinal 0, name null, claimedModId null, 7823=Item 7823, Type mods.railcraft.common.items.ItemSteelShovel, owned by Railcraft, ordinal 0, name railcraft.tool.steel.shovel, claimedModId null, 7816=Item 7816, Type mods.railcraft.common.items.ItemCrowbarReinforced, owned by Railcraft, ordinal 0, name railcraft.tool.crowbar.reinforced, claimedModId null, 7817=Item 7817, Type mods.railcraft.common.items.ItemMagnifyingGlass, owned by Railcraft, ordinal 0, name null, claimedModId null, 7818=Item 7818, Type mods.railcraft.common.blocks.signals.ItemSignalTuner, owned by Railcraft, ordinal 0, name null, claimedModId null, 7819=Item 7819, Type mods.railcraft.common.items.ItemSteelAxe, owned by Railcraft, ordinal 0, name railcraft.tool.steel.axe, claimedModId null, 7768=Item 7768, Type mods.railcraft.common.carts.ItemCartAnchor, owned by Railcraft, ordinal 1, name railcraft.cart.anchor.personal, claimedModId null, 7769=Item 7769, Type mods.railcraft.common.carts.ItemTunnelBore, owned by Railcraft, ordinal 0, name railcraft.cart.bore, claimedModId null, 7773=Item 7773, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 6, name railcraft.cart.gift, claimedModId null, 7774=Item 7774, Type mods.railcraft.common.carts.ItemLocomotive, owned by Railcraft, ordinal 0, name railcraft.cart.loco.steam, claimedModId null, 7775=Item 7775, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 5, name railcraft.cart.pumpkin, claimedModId null, 7760=Item 7760, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 2, name railcraft.armor.steel.legs, claimedModId null, 7761=Item 7761, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 1, name railcraft.armor.steel.plate, claimedModId null, 7766=Item 7766, Type mods.railcraft.common.carts.ItemCartAnchor, owned by Railcraft, ordinal 0, name railcraft.cart.anchor, claimedModId null, 7767=Item 7767, Type mods.railcraft.common.carts.ItemCartAnchor, owned by Railcraft, ordinal 2, name railcraft.cart.anchor.admin, claimedModId null, 7757=Item 7757, Type mods.railcraft.common.items.ItemOveralls, owned by Railcraft, ordinal 0, name railcraft.armor.overalls, claimedModId null, 7756=Item 7756, Type mods.railcraft.common.items.ItemGoggles, owned by Railcraft, ordinal 0, name null, claimedModId null, 7759=Item 7759, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 0, name railcraft.armor.steel.helmet, claimedModId null, 7758=Item 7758, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 3, name railcraft.armor.steel.boots, claimedModId null, 7802=Item 7802, Type mods.railcraft.common.items.ItemRailbed, owned by Railcraft, ordinal 0, name railcraft.part.railbed, claimedModId null, 7803=Item 7803, Type mods.railcraft.common.items.ItemRailcraft, owned by Railcraft, ordinal 0, name railcraft.part.rebar, claimedModId null, 7800=Item 7800, Type mods.railcraft.common.items.ItemPlate, owned by Railcraft, ordinal 0, name railcraft.part.plate, claimedModId null, 7801=Item 7801, Type mods.railcraft.common.items.ItemRail, owned by Railcraft, ordinal 0, name railcraft.part.rail, claimedModId null, 7804=Item 7804, Type mods.railcraft.common.items.ItemRailcraft, owned by Railcraft, ordinal 2, name railcraft.part.signal.lamp, claimedModId null, 7805=Item 7805, Type mods.railcraft.common.items.ItemTie, owned by Railcraft, ordinal 0, name railcraft.part.tie, claimedModId null, 7794=Item 7794, Type mods.railcraft.common.items.ItemRailcraft, owned by Railcraft, ordinal 1, name railcraft.fuel.coke, claimedModId null, 7792=Item 7792, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 2, name railcraft.fluid.creosote.wax, claimedModId null, 7793=Item 7793, Type mods.railcraft.common.fluids.ItemBucketRailcraft, owned by Railcraft, ordinal 1, name railcraft.fluid.steam.bottle, claimedModId null, 7798=Item 7798, Type mods.railcraft.common.items.ItemCircuit, owned by Railcraft, ordinal 0, name railcraft.part.circuit, claimedModId null, 7799=Item 7799, Type mods.railcraft.common.items.ItemGear, owned by Railcraft, ordinal 0, name null, claimedModId null, 7796=Item 7796, Type mods.railcraft.common.items.ItemIngot, owned by Railcraft, ordinal 0, name railcraft.ingot, claimedModId null, 7797=Item 7797, Type mods.railcraft.common.items.ItemNugget, owned by Railcraft, ordinal 0, name railcraft.nugget, claimedModId null, 7787=Item 7787, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 0, name railcraft.fluid.creosote.bottle, claimedModId null, 7786=Item 7786, Type mods.railcraft.common.items.firestone.ItemFirestoneRefined, owned by Railcraft, ordinal 0, name railcraft.firestone.refined, claimedModId null, 7785=Item 7785, Type mods.railcraft.common.items.firestone.ItemFirestoneRaw, owned by Railcraft, ordinal 0, name railcraft.firestone.raw, claimedModId null, 7784=Item 7784, Type mods.railcraft.common.items.firestone.ItemFirestoneCut, owned by Railcraft, ordinal 0, name railcraft.firestone.cut, claimedModId null, 7791=Item 7791, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 3, name railcraft.fluid.creosote.refactory, claimedModId null, 7790=Item 7790, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 4, name railcraft.fluid.creosote.cell, claimedModId null, 7789=Item 7789, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 1, name railcraft.fluid.creosote.can, claimedModId null, 7788=Item 7788, Type mods.railcraft.common.fluids.ItemBucketRailcraft, owned by Railcraft, ordinal 0, name railcraft.fluid.creosote.bucket, claimedModId null, 7779=Item 7779, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 2, name railcraft.cart.track.relayer, claimedModId null, 7778=Item 7778, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 0, name railcraft.cart.tnt.wood, claimedModId null, 7776=Item 7776, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 4, name railcraft.cart.tank, claimedModId null, 7783=Item 7783, Type mods.railcraft.common.emblems.ItemEmblem, owned by Railcraft, ordinal 0, name null, claimedModId null, 7782=Item 7782, Type mods.railcraft.common.items.ItemDust, owned by Railcraft, ordinal 0, name railcraft.dust, claimedModId null, 7781=Item 7781, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 1, name railcraft.cart.work, claimedModId null, 7780=Item 7780, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 3, name railcraft.cart.undercutter, claimedModId null, 3884=Item 3884, Type icbm.explosion.machines.ItemBlockMachine, owned by ICBM|Explosion, ordinal 0, name bJiQi, claimedModId null, 3886=Item 3886, Type calclavia.lib.multiblock.BlockMulti, owned by ICBM|Contraption, ordinal 0, name bJia, claimedModId null, 3880=Item 3880, Type icbm.core.BlockSulfureOre, owned by ICBM|Contraption, ordinal 0, name bLiu, claimedModId null, 3883=Item 3883, Type icbm.explosion.missile.ItemBlockExplosive, owned by ICBM|Explosion, ordinal 0, name bZhaDan, claimedModId null, 3876=Item 3876, Type icbm.contraption.ItemblockSpikes, owned by ICBM|Contraption, ordinal 0, name bZha, claimedModId null, 3877=Item 3877, Type icbm.contraption.block.BlockProcimityDetector, owned by ICBM|Contraption, ordinal 0, name bYinGanQi, claimedModId null, 3878=Item 3878, Type icbm.contraption.block.BlockGlassButton, owned by ICBM|Contraption, ordinal 0, name bBuoLiEnNiu, claimedModId null, 3879=Item 3879, Type icbm.contraption.block.BlockGlassPressurePlate, owned by ICBM|Contraption, ordinal 0, name bBuoLiPan, claimedModId null, 31997=Item 31997, Type icbm.contraption.ItemTracker, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 3873=Item 3873, Type icbm.contraption.block.BlockReinforcedGlass, owned by ICBM|Contraption, ordinal 0, name bBuoLi, claimedModId null, 31996=Item 31996, Type icbm.explosion.cart.ItemBombCart, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 31999=Item 31999, Type icbm.contraption.ItemAntidote, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 3874=Item 3874, Type icbm.contraption.block.ItemBlockConcreate, owned by ICBM|Contraption, ordinal 0, name bNiTu, claimedModId null, 31998=Item 31998, Type icbm.contraption.ItemSignalDisrupter, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 3875=Item 3875, Type icbm.contraption.block.BlockCamouflage, owned by ICBM|Contraption, ordinal 0, name bYinXing, claimedModId null}: value differences={343=(Item 343, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 2, name null, claimedModId null, Item 343, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 2, name railcraft.cart.furnace, claimedModId null), 342=(Item 342, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 1, name null, claimedModId null, Item 342, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 1, name railcraft.cart.chest, claimedModId null), 407=(Item 407, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 3, name null, claimedModId null, Item 407, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 3, name railcraft.cart.tnt, claimedModId null), 328=(Item 328, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 0, name null, claimedModId null, Item 328, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 0, name railcraft.cart.basic, claimedModId null)}
+2013-10-15 14:53:35 [SEVERE] [fml.ItemTracker] FML has detected item discrepancies
+2013-10-15 14:53:35 [SEVERE] [fml.ItemTracker] Missing items : {}
+2013-10-15 14:53:35 [SEVERE] [fml.ItemTracker] Mismatched items : {343=(Item 343, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 2, name null, claimedModId null, Item 343, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 2, name railcraft.cart.furnace, claimedModId null), 342=(Item 342, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 1, name null, claimedModId null, Item 342, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 1, name railcraft.cart.chest, claimedModId null), 407=(Item 407, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 3, name null, claimedModId null, Item 407, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 3, name railcraft.cart.tnt, claimedModId null), 328=(Item 328, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 0, name null, claimedModId null, Item 328, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 0, name railcraft.cart.basic, claimedModId null)}
+2013-10-15 14:53:35 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={4159=Item 4159, Type icbm.explosion.missile.missile.ItemMissile, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4156=Item 4156, Type icbm.core.base.ItemICBMBase, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 4157=Item 4157, Type icbm.core.base.ItemICBMBase, owned by ICBM|Contraption, ordinal 1, name null, claimedModId null, 4164=Item 4164, Type icbm.explosion.items.ItemLaserDesignator, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4167=Item 4167, Type icbm.explosion.items.ItemRocketLauncher, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4161=Item 4161, Type icbm.explosion.items.ItemBombDefuser, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4163=Item 4163, Type icbm.explosion.items.ItemRemoteDetonator, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4162=Item 4162, Type icbm.explosion.items.ItemRadarGun, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 4168=Item 4168, Type icbm.explosion.missile.ItemGrenade, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 3517=Item 3517, Type icbm.sentry.turret.ItemBlockTurret, owned by ICBM|Sentry, ordinal 0, name ICBMTurret, claimedModId null, 3518=Item 3518, Type icbm.sentry.platform.BlockTurretPlatform, owned by ICBM|Sentry, ordinal 0, name ICBMPlatform, claimedModId null, 477=Item 477, Type mods.railcraft.common.items.firestone.BlockFirestoneRecharge, owned by Railcraft, ordinal 0, name tile.block.firestone.recharge, claimedModId null, 474=Item 474, Type mods.railcraft.common.blocks.aesthetics.glass.ItemStrengthGlass, owned by Railcraft, ordinal 0, name tile.railcraft.glass, claimedModId null, 475=Item 475, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 7, name tile.railcraft.brick.nether, claimedModId null, 472=Item 472, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 3, name tile.railcraft.brick.frostbound, claimedModId null, 473=Item 473, Type mods.railcraft.common.blocks.hidden.BlockHidden, owned by Railcraft, ordinal 0, name tile.railcraft.hidden, claimedModId null, 470=Item 470, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 5, name tile.railcraft.brick.bleachedbone, claimedModId null, 471=Item 471, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 4, name tile.railcraft.brick.quarried, claimedModId null, 468=Item 468, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 6, name tile.railcraft.brick.bloodstained, claimedModId null, 469=Item 469, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 2, name tile.railcraft.brick.sandy, claimedModId null, 466=Item 466, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 1, name tile.railcraft.brick.abyssal, claimedModId null, 467=Item 467, Type mods.railcraft.common.blocks.aesthetics.brick.ItemBrick, owned by Railcraft, ordinal 0, name tile.railcraft.brick.infernal, claimedModId null, 464=Item 464, Type mods.railcraft.common.blocks.aesthetics.stairs.ItemStair, owned by Railcraft, ordinal 0, name tile.railcraft.stair, claimedModId null, 465=Item 465, Type mods.railcraft.common.blocks.aesthetics.slab.ItemSlab, owned by Railcraft, ordinal 0, name tile.railcraft.slab, claimedModId null, 463=Item 463, Type mods.railcraft.common.blocks.aesthetics.wall.ItemWall, owned by Railcraft, ordinal 1, name tile.railcraft.wall.beta, claimedModId null, 462=Item 462, Type mods.railcraft.common.blocks.ore.BlockWorldLogic, owned by Railcraft, ordinal 0, name tile.railcraft.worldlogic, claimedModId null, 461=Item 461, Type mods.railcraft.common.blocks.aesthetics.wall.ItemWall, owned by Railcraft, ordinal 0, name tile.railcraft.wall.alpha, claimedModId null, 460=Item 460, Type mods.railcraft.common.blocks.aesthetics.post.ItemPostMetal, owned by Railcraft, ordinal 0, name tile.railcraft.post.metal, claimedModId null, 459=Item 459, Type mods.railcraft.common.blocks.aesthetics.post.ItemPost, owned by Railcraft, ordinal 0, name tile.railcraft.post, claimedModId null, 458=Item 458, Type mods.railcraft.common.blocks.ore.ItemOre, owned by Railcraft, ordinal 0, name tile.railcraft.ore, claimedModId null, 457=Item 457, Type mods.railcraft.common.blocks.aesthetics.cube.ItemCube, owned by Railcraft, ordinal 0, name tile.railcraft.cube, claimedModId null, 456=Item 456, Type mods.railcraft.common.blocks.signals.ItemSignal, owned by Railcraft, ordinal 0, name tile.railcraft.signal, claimedModId null, 455=Item 455, Type mods.railcraft.common.blocks.tracks.BlockTrackElevator, owned by Railcraft, ordinal 0, name tile.railcraft.track.elevator, claimedModId null, 454=Item 454, Type mods.railcraft.common.blocks.tracks.ItemTrack, owned by Railcraft, ordinal 0, name tile.railcraft.track, claimedModId null, 453=Item 453, Type mods.railcraft.common.blocks.machine.ItemMachine, owned by Railcraft, ordinal 1, name tile.railcraft.machine.gamma, claimedModId null, 452=Item 452, Type mods.railcraft.common.blocks.machine.ItemMachine, owned by Railcraft, ordinal 2, name tile.railcraft.machine.beta, claimedModId null, 451=Item 451, Type mods.railcraft.common.blocks.machine.ItemMachine, owned by Railcraft, ordinal 0, name tile.railcraft.machine.alpha, claimedModId null, 450=Item 450, Type mods.railcraft.common.blocks.detector.ItemDetector, owned by Railcraft, ordinal 0, name tile.railcraft.detector, claimedModId null, 491=Item 491, Type mods.railcraft.common.fluids.BlockRailcraftFluidFinite, owned by Railcraft, ordinal 0, name tile.railcraft.block.fluid.steam, claimedModId null, 490=Item 490, Type mods.railcraft.common.fluids.BlockRailcraftFluid, owned by Railcraft, ordinal 0, name tile.railcraft.block.fluid.creosote, claimedModId null, 11410=Item 11410, Type mffs.item.card.ItemCardLink, owned by MFFS, ordinal 0, name null, claimedModId null, 11411=Item 11411, Type mffs.item.card.ItemCardID, owned by MFFS, ordinal 0, name null, claimedModId null, 11408=Item 11408, Type mffs.card.ItemCard, owned by MFFS, ordinal 0, name null, claimedModId null, 11409=Item 11409, Type mffs.item.card.ItemCardFrequency, owned by MFFS, ordinal 0, name null, claimedModId null, 11414=Item 11414, Type mffs.item.module.interdiction.ItemModuleAntiHostile, owned by MFFS, ordinal 0, name null, claimedModId null, 11415=Item 11415, Type mffs.item.module.interdiction.ItemModuleAntiPersonnel, owned by MFFS, ordinal 0, name null, claimedModId null, 11412=Item 11412, Type mffs.item.card.ItemCardInfinite, owned by MFFS, ordinal 0, name null, claimedModId null, 11413=Item 11413, Type mffs.item.module.interdiction.ItemModuleAntiFriendly, owned by MFFS, ordinal 0, name null, claimedModId null, 11418=Item 11418, Type mffs.item.module.interdiction.ItemModuleInterdictionMatrix, owned by MFFS, ordinal 0, name null, claimedModId null, 11419=Item 11419, Type mffs.item.module.interdiction.ItemModuleInterdictionMatrix, owned by MFFS, ordinal 1, name null, claimedModId null, 11416=Item 11416, Type mffs.item.module.interdiction.ItemModuleConfiscate, owned by MFFS, ordinal 0, name null, claimedModId null, 11417=Item 11417, Type mffs.item.module.interdiction.ItemModuleWarn, owned by MFFS, ordinal 0, name null, claimedModId null, 11422=Item 11422, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 8, name null, claimedModId null, 11423=Item 11423, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 9, name null, claimedModId null, 11420=Item 11420, Type mffs.item.module.interdiction.ItemModuleInterdictionMatrix, owned by MFFS, ordinal 2, name null, claimedModId null, 11421=Item 11421, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 7, name null, claimedModId null, 11395=Item 11395, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 0, name null, claimedModId null, 11394=Item 11394, Type mffs.item.mode.ItemModeCustom, owned by MFFS, ordinal 0, name null, claimedModId null, 11393=Item 11393, Type mffs.item.mode.ItemModeCylinder, owned by MFFS, ordinal 0, name null, claimedModId null, 11392=Item 11392, Type mffs.item.mode.ItemModePyramid, owned by MFFS, ordinal 0, name null, claimedModId null, 11399=Item 11399, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 4, name null, claimedModId null, 11398=Item 11398, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 3, name null, claimedModId null, 11397=Item 11397, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 2, name null, claimedModId null, 11396=Item 11396, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 1, name null, claimedModId null, 11403=Item 11403, Type mffs.item.module.projector.ItemModuleDisintegration, owned by MFFS, ordinal 0, name null, claimedModId null, 11402=Item 11402, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 5, name null, claimedModId null, 11401=Item 11401, Type mffs.item.module.projector.ItemModuleManipulator, owned by MFFS, ordinal 0, name null, claimedModId null, 11400=Item 11400, Type mffs.item.module.projector.ItemModuleFusion, owned by MFFS, ordinal 0, name null, claimedModId null, 11407=Item 11407, Type mffs.item.module.projector.ItemModuleStablize, owned by MFFS, ordinal 0, name null, claimedModId null, 11406=Item 11406, Type mffs.item.module.projector.ItemModuleSponge, owned by MFFS, ordinal 0, name null, claimedModId null, 11405=Item 11405, Type mffs.item.module.ItemModule, owned by MFFS, ordinal 6, name null, claimedModId null, 11404=Item 11404, Type mffs.item.module.projector.ItemModuleShock, owned by MFFS, ordinal 0, name null, claimedModId null, 11425=Item 11425, Type mffs.item.module.projector.ItemModuleRepulsion, owned by MFFS, ordinal 0, name null, claimedModId null, 11424=Item 11424, Type mffs.base.ItemMFFS, owned by MFFS, ordinal 1, name null, claimedModId null, 3768=Item 3768, Type atomicscience.api.BlockRadioactive, owned by ICBM|Contraption, ordinal 0, name Radioactive, claimedModId null, 5004=Item 5004, Type ljdp.minechem.common.items.PhotonicInduction, owned by minechem, ordinal 0, name null, claimedModId null, 5005=Item 5005, Type ljdp.minechem.common.items.ItemPills, owned by minechem, ordinal 0, name null, claimedModId null, 5002=Item 5002, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 2, name null, claimedModId null, 5003=Item 5003, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 3, name null, claimedModId null, 5000=Item 5000, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 0, name null, claimedModId null, 5001=Item 5001, Type ljdp.minechem.common.items.ItemArmorRadiationShield, owned by minechem, ordinal 1, name null, claimedModId null, 4998=Item 4998, Type ljdp.minechem.common.items.ItemTestTube, owned by minechem, ordinal 0, name null, claimedModId null, 4999=Item 4999, Type ljdp.minechem.common.items.ItemChemistJournal, owned by minechem, ordinal 0, name null, claimedModId null, 4996=Item 4996, Type ljdp.minechem.common.items.ItemFusionStar, owned by minechem, ordinal 0, name null, claimedModId null, 4997=Item 4997, Type ljdp.minechem.common.items.ItemBlueprint, owned by minechem, ordinal 0, name null, claimedModId null, 4994=Item 4994, Type ljdp.minechem.common.items.ItemLens, owned by minechem, ordinal 0, name null, claimedModId null, 4995=Item 4995, Type ljdp.minechem.common.items.ItemAtomicManipulator, owned by minechem, ordinal 0, name null, claimedModId null, 4992=Item 4992, Type ljdp.minechem.common.items.ItemElement, owned by minechem, ordinal 0, name null, claimedModId null, 4993=Item 4993, Type ljdp.minechem.common.items.ItemMolecule, owned by minechem, ordinal 0, name null, claimedModId null, 11389=Item 11389, Type mffs.item.mode.ItemModeCube, owned by MFFS, ordinal 0, name null, claimedModId null, 11388=Item 11388, Type mffs.base.ItemMFFS, owned by MFFS, ordinal 0, name null, claimedModId null, 11391=Item 11391, Type mffs.item.mode.ItemModeTube, owned by MFFS, ordinal 0, name null, claimedModId null, 11390=Item 11390, Type mffs.item.mode.ItemModeSphere, owned by MFFS, ordinal 0, name null, claimedModId null, 11387=Item 11387, Type mffs.item.ItemRemoteController, owned by MFFS, ordinal 0, name null, claimedModId null, 1684=Item 1684, Type mffs.block.BlockForceFieldProjector, owned by MFFS, ordinal 0, name tile.mffs:projector, claimedModId null, 1685=Item 1685, Type mffs.block.BlockBiometricIdentifier, owned by MFFS, ordinal 0, name tile.mffs:biometricIdentifier, claimedModId null, 1686=Item 1686, Type mffs.block.BlockInterdictionMatrix, owned by MFFS, ordinal 0, name tile.mffs:interdictionMatrix, claimedModId null, 1687=Item 1687, Type mffs.block.BlockForceManipulator, owned by MFFS, ordinal 0, name tile.mffs:manipulator, claimedModId null, 1681=Item 1681, Type mffs.block.BlockForceField, owned by MFFS, ordinal 0, name tile.mffs:forceField, claimedModId null, 1682=Item 1682, Type mffs.block.BlockCoercionDeriver, owned by MFFS, ordinal 0, name tile.mffs:coercionDeriver, claimedModId null, 1683=Item 1683, Type mffs.block.BlockFortronCapacitor, owned by MFFS, ordinal 0, name tile.mffs:fortronCapacitor, claimedModId null, 7825=Item 7825, Type mods.railcraft.common.blocks.signals.ItemSignalBlockSurveyor, owned by Railcraft, ordinal 0, name railcraft.tool.surveyor, claimedModId null, 7824=Item 7824, Type mods.railcraft.common.items.ItemSteelSword, owned by Railcraft, ordinal 0, name railcraft.tool.steel.sword, claimedModId null, 7826=Item 7826, Type mods.railcraft.common.items.ItemWhistleTuner, owned by Railcraft, ordinal 0, name null, claimedModId null, 4013=Item 4013, Type ljdp.minechem.common.blocks.BlockDecomposer, owned by minechem, ordinal 0, name minechem.blockDecomposer, claimedModId null, 4012=Item 4012, Type ljdp.minechem.common.blocks.BlockMicroscope, owned by minechem, ordinal 0, name minechem.blockMicroscope, claimedModId null, 4015=Item 4015, Type ljdp.minechem.common.blocks.BlockBlueprintProjector, owned by minechem, ordinal 0, name minechem.blockBlueprintProjector, claimedModId null, 4014=Item 4014, Type ljdp.minechem.common.blocks.BlockSynthesis, owned by minechem, ordinal 0, name minechem.blockSynthesis, claimedModId null, 4020=Item 4020, Type ljdp.minechem.common.blocks.OreUranium, owned by minechem, ordinal 0, name minechem.uraniumOre, claimedModId null, 7812=Item 7812, Type mods.railcraft.common.carts.ItemBoreHeadDiamond, owned by Railcraft, ordinal 0, name null, claimedModId null, 7813=Item 7813, Type mods.railcraft.common.carts.ItemBoreHeadIron, owned by Railcraft, ordinal 0, name null, claimedModId null, 7814=Item 7814, Type mods.railcraft.common.carts.ItemBoreHeadSteel, owned by Railcraft, ordinal 0, name null, claimedModId null, 7815=Item 7815, Type mods.railcraft.common.items.ItemCrowbar, owned by Railcraft, ordinal 0, name railcraft.tool.crowbar, claimedModId null, 4016=Item 4016, Type ljdp.minechem.common.items.ItemGhostBlock, owned by minechem, ordinal 0, name minechem.blockGhostBlock, claimedModId null, 4017=Item 4017, Type ljdp.minechem.common.items.ItemBlockFusion, owned by minechem, ordinal 0, name minechem.blockFusion, claimedModId null, 7809=Item 7809, Type mods.railcraft.common.items.ItemRoutingTable, owned by Railcraft, ordinal 0, name null, claimedModId null, 4018=Item 4018, Type ljdp.minechem.common.blocks.BlockChemicalStorage, owned by minechem, ordinal 0, name minechem.blockChemicalStorage, claimedModId null, 7810=Item 7810, Type mods.railcraft.common.items.ItemTicket, owned by Railcraft, ordinal 0, name null, claimedModId null, 7811=Item 7811, Type mods.railcraft.common.items.ItemTicketGold, owned by Railcraft, ordinal 0, name null, claimedModId null, 21205=Item 21205, Type icbm.sentry.turret.ItemAmmo, owned by ICBM|Sentry, ordinal 0, name null, claimedModId null, 7820=Item 7820, Type mods.railcraft.common.items.ItemSteelHoe, owned by Railcraft, ordinal 0, name railcraft.tool.steel.hoe, claimedModId null, 7821=Item 7821, Type mods.railcraft.common.items.ItemSteelPickaxe, owned by Railcraft, ordinal 0, name railcraft.tool.steel.pickaxe, claimedModId null, 7822=Item 7822, Type mods.railcraft.common.items.ItemSteelShears, owned by Railcraft, ordinal 0, name railcraft.tool.steel.shears, claimedModId null, 21206=Item 21206, Type icbm.sentry.turret.upgrades.ItemSentryUpgrade, owned by ICBM|Sentry, ordinal 0, name null, claimedModId null, 7823=Item 7823, Type mods.railcraft.common.items.ItemSteelShovel, owned by Railcraft, ordinal 0, name railcraft.tool.steel.shovel, claimedModId null, 7816=Item 7816, Type mods.railcraft.common.items.ItemCrowbarReinforced, owned by Railcraft, ordinal 0, name railcraft.tool.crowbar.reinforced, claimedModId null, 7817=Item 7817, Type mods.railcraft.common.items.ItemMagnifyingGlass, owned by Railcraft, ordinal 0, name null, claimedModId null, 7818=Item 7818, Type mods.railcraft.common.blocks.signals.ItemSignalTuner, owned by Railcraft, ordinal 0, name null, claimedModId null, 7819=Item 7819, Type mods.railcraft.common.items.ItemSteelAxe, owned by Railcraft, ordinal 0, name railcraft.tool.steel.axe, claimedModId null, 7768=Item 7768, Type mods.railcraft.common.carts.ItemCartAnchor, owned by Railcraft, ordinal 1, name railcraft.cart.anchor.personal, claimedModId null, 7769=Item 7769, Type mods.railcraft.common.carts.ItemTunnelBore, owned by Railcraft, ordinal 0, name railcraft.cart.bore, claimedModId null, 7773=Item 7773, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 6, name railcraft.cart.gift, claimedModId null, 7774=Item 7774, Type mods.railcraft.common.carts.ItemLocomotive, owned by Railcraft, ordinal 0, name railcraft.cart.loco.steam, claimedModId null, 7775=Item 7775, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 5, name railcraft.cart.pumpkin, claimedModId null, 7760=Item 7760, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 2, name railcraft.armor.steel.legs, claimedModId null, 7761=Item 7761, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 1, name railcraft.armor.steel.plate, claimedModId null, 7766=Item 7766, Type mods.railcraft.common.carts.ItemCartAnchor, owned by Railcraft, ordinal 0, name railcraft.cart.anchor, claimedModId null, 7767=Item 7767, Type mods.railcraft.common.carts.ItemCartAnchor, owned by Railcraft, ordinal 2, name railcraft.cart.anchor.admin, claimedModId null, 7757=Item 7757, Type mods.railcraft.common.items.ItemOveralls, owned by Railcraft, ordinal 0, name railcraft.armor.overalls, claimedModId null, 7756=Item 7756, Type mods.railcraft.common.items.ItemGoggles, owned by Railcraft, ordinal 0, name null, claimedModId null, 7759=Item 7759, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 0, name railcraft.armor.steel.helmet, claimedModId null, 7758=Item 7758, Type mods.railcraft.common.items.ItemSteelArmor, owned by Railcraft, ordinal 3, name railcraft.armor.steel.boots, claimedModId null, 7802=Item 7802, Type mods.railcraft.common.items.ItemRailbed, owned by Railcraft, ordinal 0, name railcraft.part.railbed, claimedModId null, 7803=Item 7803, Type mods.railcraft.common.items.ItemRailcraft, owned by Railcraft, ordinal 0, name railcraft.part.rebar, claimedModId null, 7800=Item 7800, Type mods.railcraft.common.items.ItemPlate, owned by Railcraft, ordinal 0, name railcraft.part.plate, claimedModId null, 7801=Item 7801, Type mods.railcraft.common.items.ItemRail, owned by Railcraft, ordinal 0, name railcraft.part.rail, claimedModId null, 7804=Item 7804, Type mods.railcraft.common.items.ItemRailcraft, owned by Railcraft, ordinal 2, name railcraft.part.signal.lamp, claimedModId null, 7805=Item 7805, Type mods.railcraft.common.items.ItemTie, owned by Railcraft, ordinal 0, name railcraft.part.tie, claimedModId null, 7794=Item 7794, Type mods.railcraft.common.items.ItemRailcraft, owned by Railcraft, ordinal 1, name railcraft.fuel.coke, claimedModId null, 7792=Item 7792, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 2, name railcraft.fluid.creosote.wax, claimedModId null, 7793=Item 7793, Type mods.railcraft.common.fluids.ItemBucketRailcraft, owned by Railcraft, ordinal 1, name railcraft.fluid.steam.bottle, claimedModId null, 7798=Item 7798, Type mods.railcraft.common.items.ItemCircuit, owned by Railcraft, ordinal 0, name railcraft.part.circuit, claimedModId null, 7799=Item 7799, Type mods.railcraft.common.items.ItemGear, owned by Railcraft, ordinal 0, name null, claimedModId null, 7796=Item 7796, Type mods.railcraft.common.items.ItemIngot, owned by Railcraft, ordinal 0, name railcraft.ingot, claimedModId null, 7797=Item 7797, Type mods.railcraft.common.items.ItemNugget, owned by Railcraft, ordinal 0, name railcraft.nugget, claimedModId null, 7787=Item 7787, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 0, name railcraft.fluid.creosote.bottle, claimedModId null, 7786=Item 7786, Type mods.railcraft.common.items.firestone.ItemFirestoneRefined, owned by Railcraft, ordinal 0, name railcraft.firestone.refined, claimedModId null, 7785=Item 7785, Type mods.railcraft.common.items.firestone.ItemFirestoneRaw, owned by Railcraft, ordinal 0, name railcraft.firestone.raw, claimedModId null, 7784=Item 7784, Type mods.railcraft.common.items.firestone.ItemFirestoneCut, owned by Railcraft, ordinal 0, name railcraft.firestone.cut, claimedModId null, 7791=Item 7791, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 3, name railcraft.fluid.creosote.refactory, claimedModId null, 7790=Item 7790, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 4, name railcraft.fluid.creosote.cell, claimedModId null, 7789=Item 7789, Type mods.railcraft.common.fluids.ItemFluidContainer, owned by Railcraft, ordinal 1, name railcraft.fluid.creosote.can, claimedModId null, 7788=Item 7788, Type mods.railcraft.common.fluids.ItemBucketRailcraft, owned by Railcraft, ordinal 0, name railcraft.fluid.creosote.bucket, claimedModId null, 7779=Item 7779, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 2, name railcraft.cart.track.relayer, claimedModId null, 7778=Item 7778, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 0, name railcraft.cart.tnt.wood, claimedModId null, 7776=Item 7776, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 4, name railcraft.cart.tank, claimedModId null, 7783=Item 7783, Type mods.railcraft.common.emblems.ItemEmblem, owned by Railcraft, ordinal 0, name null, claimedModId null, 7782=Item 7782, Type mods.railcraft.common.items.ItemDust, owned by Railcraft, ordinal 0, name railcraft.dust, claimedModId null, 7781=Item 7781, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 1, name railcraft.cart.work, claimedModId null, 7780=Item 7780, Type mods.railcraft.common.carts.ItemCart, owned by Railcraft, ordinal 3, name railcraft.cart.undercutter, claimedModId null, 3884=Item 3884, Type icbm.explosion.machines.ItemBlockMachine, owned by ICBM|Explosion, ordinal 0, name bJiQi, claimedModId null, 3886=Item 3886, Type calclavia.lib.multiblock.BlockMulti, owned by ICBM|Contraption, ordinal 0, name bJia, claimedModId null, 3880=Item 3880, Type icbm.core.BlockSulfureOre, owned by ICBM|Contraption, ordinal 0, name bLiu, claimedModId null, 3883=Item 3883, Type icbm.explosion.missile.ItemBlockExplosive, owned by ICBM|Explosion, ordinal 0, name bZhaDan, claimedModId null, 3876=Item 3876, Type icbm.contraption.ItemblockSpikes, owned by ICBM|Contraption, ordinal 0, name bZha, claimedModId null, 3877=Item 3877, Type icbm.contraption.block.BlockProcimityDetector, owned by ICBM|Contraption, ordinal 0, name bYinGanQi, claimedModId null, 3878=Item 3878, Type icbm.contraption.block.BlockGlassButton, owned by ICBM|Contraption, ordinal 0, name bBuoLiEnNiu, claimedModId null, 3879=Item 3879, Type icbm.contraption.block.BlockGlassPressurePlate, owned by ICBM|Contraption, ordinal 0, name bBuoLiPan, claimedModId null, 31997=Item 31997, Type icbm.contraption.ItemTracker, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 3873=Item 3873, Type icbm.contraption.block.BlockReinforcedGlass, owned by ICBM|Contraption, ordinal 0, name bBuoLi, claimedModId null, 31996=Item 31996, Type icbm.explosion.cart.ItemBombCart, owned by ICBM|Explosion, ordinal 0, name null, claimedModId null, 31999=Item 31999, Type icbm.contraption.ItemAntidote, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 3874=Item 3874, Type icbm.contraption.block.ItemBlockConcreate, owned by ICBM|Contraption, ordinal 0, name bNiTu, claimedModId null, 31998=Item 31998, Type icbm.contraption.ItemSignalDisrupter, owned by ICBM|Contraption, ordinal 0, name null, claimedModId null, 3875=Item 3875, Type icbm.contraption.block.BlockCamouflage, owned by ICBM|Contraption, ordinal 0, name bYinXing, claimedModId null}: value differences={343=(Item 343, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 2, name null, claimedModId null, Item 343, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 2, name railcraft.cart.furnace, claimedModId null), 342=(Item 342, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 1, name null, claimedModId null, Item 342, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 1, name railcraft.cart.chest, claimedModId null), 407=(Item 407, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 3, name null, claimedModId null, Item 407, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 3, name railcraft.cart.tnt, claimedModId null), 328=(Item 328, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 0, name null, claimedModId null, Item 328, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 0, name railcraft.cart.basic, claimedModId null)}
+2013-10-15 14:53:35 [SEVERE] [fml.ItemTracker] FML has detected item discrepancies
+2013-10-15 14:53:35 [SEVERE] [fml.ItemTracker] Missing items : {}
+2013-10-15 14:53:35 [SEVERE] [fml.ItemTracker] Mismatched items : {343=(Item 343, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 2, name null, claimedModId null, Item 343, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 2, name railcraft.cart.furnace, claimedModId null), 342=(Item 342, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 1, name null, claimedModId null, Item 342, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 1, name railcraft.cart.chest, claimedModId null), 407=(Item 407, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 3, name null, claimedModId null, Item 407, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 3, name railcraft.cart.tnt, claimedModId null), 328=(Item 328, Type net.minecraft.item.ItemMinecart, owned by Minecraft, ordinal 0, name null, claimedModId null, Item 328, Type mods.railcraft.common.carts.ItemCartVanilla, owned by Railcraft, ordinal 0, name railcraft.cart.basic, claimedModId null)}
+2013-10-15 14:53:35 [INFO] [ForgeModLoader] Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6e4d706e)
+2013-10-15 14:53:35 [INFO] [ForgeModLoader] Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@6e4d706e)
+2013-10-15 14:53:35 [INFO] [ForgeModLoader] Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@6e4d706e)
+2013-10-15 14:53:36 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-10-15 14:53:36 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-10-15 14:53:36 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-10-15 14:53:36 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-10-15 14:53:36 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-10-15 14:53:36 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-10-15 14:53:36 [FINEST] [CodeChickenCore] Sending event FMLServerStartingEvent to mod CodeChickenCore
+2013-10-15 14:53:36 [FINEST] [CodeChickenCore] Sent event FMLServerStartingEvent to mod CodeChickenCore
+2013-10-15 14:53:36 [FINEST] [NotEnoughItems] Sending event FMLServerStartingEvent to mod NotEnoughItems
+2013-10-15 14:53:36 [FINEST] [NotEnoughItems] Sent event FMLServerStartingEvent to mod NotEnoughItems
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Core] Sending event FMLServerStartingEvent to mod BuildCraft|Core
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Core] Sent event FMLServerStartingEvent to mod BuildCraft|Core
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Builders] Sending event FMLServerStartingEvent to mod BuildCraft|Builders
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Builders] Sent event FMLServerStartingEvent to mod BuildCraft|Builders
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Energy] Sending event FMLServerStartingEvent to mod BuildCraft|Energy
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Energy] Sent event FMLServerStartingEvent to mod BuildCraft|Energy
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Factory] Sending event FMLServerStartingEvent to mod BuildCraft|Factory
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Factory] Sent event FMLServerStartingEvent to mod BuildCraft|Factory
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Transport] Sending event FMLServerStartingEvent to mod BuildCraft|Transport
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Transport] Sent event FMLServerStartingEvent to mod BuildCraft|Transport
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Silicon] Sending event FMLServerStartingEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Silicon] Sent event FMLServerStartingEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:36 [FINEST] [ICBM|Contraption] Sending event FMLServerStartingEvent to mod ICBM|Contraption
+2013-10-15 14:53:36 [FINEST] [ICBM|Contraption] Sent event FMLServerStartingEvent to mod ICBM|Contraption
+2013-10-15 14:53:36 [FINEST] [ICBM|Sentry] Sending event FMLServerStartingEvent to mod ICBM|Sentry
+2013-10-15 14:53:36 [FINE] [ForgeModLoader] Created new ModFlags data.
+2013-10-15 14:53:36 [FINEST] [ICBM|Sentry] Sent event FMLServerStartingEvent to mod ICBM|Sentry
+2013-10-15 14:53:36 [FINEST] [ICBM|Explosion] Sending event FMLServerStartingEvent to mod ICBM|Explosion
+2013-10-15 14:53:36 [FINE] [ForgeModLoader] Created new ModFlags data.
+2013-10-15 14:53:36 [FINEST] [ICBM|Explosion] Sent event FMLServerStartingEvent to mod ICBM|Explosion
+2013-10-15 14:53:36 [FINEST] [MFFS] Sending event FMLServerStartingEvent to mod MFFS
+2013-10-15 14:53:36 [FINEST] [MFFS] Sent event FMLServerStartingEvent to mod MFFS
+2013-10-15 14:53:36 [FINEST] [minechem] Sending event FMLServerStartingEvent to mod minechem
+2013-10-15 14:53:36 [FINEST] [minechem] Sent event FMLServerStartingEvent to mod minechem
+2013-10-15 14:53:36 [FINEST] [NEIPlugins] Sending event FMLServerStartingEvent to mod NEIPlugins
+2013-10-15 14:53:36 [FINEST] [NEIPlugins] Sent event FMLServerStartingEvent to mod NEIPlugins
+2013-10-15 14:53:36 [FINEST] [Railcraft] Sending event FMLServerStartingEvent to mod Railcraft
+2013-10-15 14:53:36 [FINEST] [Railcraft] Sent event FMLServerStartingEvent to mod Railcraft
+2013-10-15 14:53:36 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-10-15 14:53:36 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-10-15 14:53:36 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-10-15 14:53:36 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-10-15 14:53:36 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-10-15 14:53:36 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-10-15 14:53:36 [FINEST] [CodeChickenCore] Sending event FMLServerStartedEvent to mod CodeChickenCore
+2013-10-15 14:53:36 [FINEST] [CodeChickenCore] Sent event FMLServerStartedEvent to mod CodeChickenCore
+2013-10-15 14:53:36 [FINEST] [NotEnoughItems] Sending event FMLServerStartedEvent to mod NotEnoughItems
+2013-10-15 14:53:36 [FINEST] [NotEnoughItems] Sent event FMLServerStartedEvent to mod NotEnoughItems
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Core] Sending event FMLServerStartedEvent to mod BuildCraft|Core
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Core] Sent event FMLServerStartedEvent to mod BuildCraft|Core
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Builders] Sending event FMLServerStartedEvent to mod BuildCraft|Builders
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Builders] Sent event FMLServerStartedEvent to mod BuildCraft|Builders
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Energy] Sending event FMLServerStartedEvent to mod BuildCraft|Energy
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Energy] Sent event FMLServerStartedEvent to mod BuildCraft|Energy
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Factory] Sending event FMLServerStartedEvent to mod BuildCraft|Factory
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Factory] Sent event FMLServerStartedEvent to mod BuildCraft|Factory
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Transport] Sending event FMLServerStartedEvent to mod BuildCraft|Transport
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Transport] Sent event FMLServerStartedEvent to mod BuildCraft|Transport
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Silicon] Sending event FMLServerStartedEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:36 [FINEST] [BuildCraft|Silicon] Sent event FMLServerStartedEvent to mod BuildCraft|Silicon
+2013-10-15 14:53:36 [FINEST] [ICBM|Contraption] Sending event FMLServerStartedEvent to mod ICBM|Contraption
+2013-10-15 14:53:36 [FINEST] [ICBM|Contraption] Sent event FMLServerStartedEvent to mod ICBM|Contraption
+2013-10-15 14:53:36 [FINEST] [ICBM|Sentry] Sending event FMLServerStartedEvent to mod ICBM|Sentry
+2013-10-15 14:53:36 [FINEST] [ICBM|Sentry] Sent event FMLServerStartedEvent to mod ICBM|Sentry
+2013-10-15 14:53:36 [FINEST] [ICBM|Explosion] Sending event FMLServerStartedEvent to mod ICBM|Explosion
+2013-10-15 14:53:36 [FINEST] [ICBM|Explosion] Sent event FMLServerStartedEvent to mod ICBM|Explosion
+2013-10-15 14:53:36 [FINEST] [MFFS] Sending event FMLServerStartedEvent to mod MFFS
+2013-10-15 14:53:36 [FINEST] [MFFS] Sent event FMLServerStartedEvent to mod MFFS
+2013-10-15 14:53:36 [FINEST] [minechem] Sending event FMLServerStartedEvent to mod minechem
+2013-10-15 14:53:36 [FINEST] [minechem] Sent event FMLServerStartedEvent to mod minechem
+2013-10-15 14:53:36 [FINEST] [NEIPlugins] Sending event FMLServerStartedEvent to mod NEIPlugins
+2013-10-15 14:53:36 [FINEST] [NEIPlugins] Sent event FMLServerStartedEvent to mod NEIPlugins
+2013-10-15 14:53:36 [FINEST] [Railcraft] Sending event FMLServerStartedEvent to mod Railcraft
+2013-10-15 14:53:36 [FINEST] [Railcraft] Sent event FMLServerStartedEvent to mod Railcraft
+2013-10-15 14:53:37 [FINE] [NEIPlugins] FirstTickHandler - server side finish
+2013-10-15 14:53:57 [FINE] [ForgeModLoader] Saved ModFlags NBT data file successfully.
+2013-10-15 14:53:57 [FINE] [ForgeModLoader] Saved ModFlags NBT data file successfully.
+2013-10-15 14:53:57 [FINE] [ForgeModLoader] Saved ModFlags NBT data file successfully.
+2013-10-15 14:53:57 [INFO] [ForgeModLoader] Unloading dimension 1
+2013-10-15 14:57:44 [FINEST] [ForgeModLoader] Received valid FML login packet from /127.0.0.1:60053

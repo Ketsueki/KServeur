@@ -1,0 +1,1 @@
+copy and replace all the .minecraft in your %appdata folder.
